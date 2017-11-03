@@ -1975,7 +1975,6 @@ lvm2-dbusd
 lvm2-devel
 lvm2-libs
 lvm2-lockd
-lxpolkit
 lz4
 lz4-java
 lz4-libs
@@ -2710,6 +2709,7 @@ policycoreutils-python3
 policycoreutils-restorecond
 policycoreutils-sandbox
 polkit
+polkit-gnome
 polkit-libs
 polkit-pkla-compat
 polkit-qt
@@ -3908,7 +3908,6 @@ unbound
 unbound-libs
 unicode-ucd
 uniconvertor
-unique
 units
 unixODBC
 unixODBC-gui-qt

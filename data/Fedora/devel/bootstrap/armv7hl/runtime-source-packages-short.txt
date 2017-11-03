@@ -1011,7 +1011,6 @@ lua-posix
 lua-socket
 luksmeta
 lvm2
-lxsession
 lz4
 lz4-java
 lzo
@@ -1490,6 +1489,7 @@ plexus-utils
 plymouth
 policycoreutils
 polkit
+polkit-gnome
 polkit-pkla-compat
 polkit-qt
 poly2tri
@@ -1893,7 +1893,6 @@ udisks2
 unbound
 unicode-ucd
 uniconvertor
-unique
 units
 unixODBC
 unixODBC-gui-qt

@@ -1361,7 +1361,6 @@ libaec
 libaesgm
 libaio
 libao
-libappindicator
 libappstream-glib
 libarchive
 libart_lgpl
@@ -1403,7 +1402,6 @@ libdb
 libdb4
 libdbi
 libdbi-drivers
-libdbusmenu
 libdmx
 libdnf
 libdrm
@@ -1476,7 +1474,6 @@ libiec61883
 libieee1284
 libimagequant
 libimobiledevice
-libindicator
 libinput
 libiptcdata
 libiscsi
@@ -1708,7 +1705,6 @@ lucene4
 luksmeta
 lutok
 lvm2
-lxsession
 lynx
 lz4
 lz4-java
@@ -2270,7 +2266,6 @@ ntp
 numactl
 numad
 numpy
-nunit
 nuxwdog
 nvme-cli
 objectweb-asm
@@ -4042,7 +4037,6 @@ undertow
 unicode-emoji
 unicode-ucd
 uniconvertor
-unique
 units
 unixODBC
 unixODBC-gui-qt

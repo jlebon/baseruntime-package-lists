@@ -2823,8 +2823,6 @@ libaio-0.3.110-9.fc27.ppc64
 libaio-devel-0.3.110-9.fc27.ppc64
 libao-1.2.0-9.fc27.ppc64
 libao-devel-1.2.0-9.fc27.ppc64
-libappindicator-12.10.0-16.fc27.ppc64
-libappindicator-devel-12.10.0-16.fc27.ppc64
 libappstream-glib-0.7.2-1.fc28.ppc64
 libappstream-glib-devel-0.7.2-1.fc28.ppc64
 libarchive-3.3.1-3.fc27.ppc64
@@ -2962,12 +2960,6 @@ libdb4-devel-4.8.30-23.fc27.ppc64
 libdbi-0.9.0-9.fc27.ppc64
 libdbi-devel-0.9.0-9.fc27.ppc64
 libdbi-drivers-0.9.0-8.fc27.ppc64
-libdbusmenu-16.04.0-4.fc27.ppc64
-libdbusmenu-devel-16.04.0-4.fc27.ppc64
-libdbusmenu-gtk2-16.04.0-4.fc27.ppc64
-libdbusmenu-gtk2-devel-16.04.0-4.fc27.ppc64
-libdbusmenu-gtk3-16.04.0-4.fc27.ppc64
-libdbusmenu-gtk3-devel-16.04.0-4.fc27.ppc64
 libdhash-0.4.3-33.fc27.ppc64
 libdhash-devel-0.4.3-33.fc27.ppc64
 libdmmp-0.7.1-6.git847cc43.fc27.ppc64
@@ -3162,10 +3154,6 @@ libimagequant-2.10.2-1.fc27.ppc64
 libimagequant-devel-2.10.2-1.fc27.ppc64
 libimobiledevice-1.2.0-11.fc27.ppc64
 libimobiledevice-devel-1.2.0-11.fc27.ppc64
-libindicator-12.10.1-11.fc27.ppc64
-libindicator-devel-12.10.1-11.fc27.ppc64
-libindicator-gtk3-12.10.1-11.fc27.ppc64
-libindicator-gtk3-devel-12.10.1-11.fc27.ppc64
 libini_config-1.3.0-33.fc27.ppc64
 libini_config-devel-1.3.0-33.fc27.ppc64
 libinput-1.8.1-3.fc27.ppc64
@@ -3794,7 +3782,6 @@ lvm2-dbusd-2.02.174-2.fc28.ppc64
 lvm2-devel-2.02.174-2.fc28.ppc64
 lvm2-libs-2.02.174-2.fc28.ppc64
 lvm2-lockd-2.02.174-2.fc28.ppc64
-lxpolkit-0.5.3-2.fc27.3.ppc64
 lynx-2.8.9-0.20.dev16.fc27.ppc64
 lz4-1.8.0-1.fc28.ppc64
 lz4-devel-1.8.0-1.fc28.ppc64
@@ -4571,8 +4558,6 @@ ntsysv-1.10-3.fc27.ppc64
 numactl-devel-2.0.11-5.fc27.ppc64
 numactl-libs-2.0.11-5.fc27.ppc64
 numad-0.5-24.20150602git.fc27.ppc64
-nunit-3.7.1-3.fc27.ppc64
-nunit-devel-3.7.1-3.fc27.ppc64
 nuxwdog-1.0.3-11.fc27.ppc64
 nuxwdog-client-java-1.0.3-11.fc27.ppc64
 nvme-cli-1.3-3.fc27.ppc64
@@ -8836,8 +8821,6 @@ undertow-1:1.4.0-3.fc27.noarch
 unicode-emoji-5.0-2.fc27.noarch
 unicode-ucd-10.0.0-2.fc27.noarch
 uniconvertor-2.0-0.14.svn362.fc27.ppc64
-unique-1.1.6-18.fc27.ppc64
-unique-devel-1.1.6-18.fc27.ppc64
 units-2.14-3.fc27.ppc64
 unixODBC-2.3.4-7.fc27.ppc64
 unixODBC-devel-2.3.4-7.fc27.ppc64

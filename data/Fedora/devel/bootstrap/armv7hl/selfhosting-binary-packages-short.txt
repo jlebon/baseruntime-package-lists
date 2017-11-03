@@ -2852,8 +2852,6 @@ libaio
 libaio-devel
 libao
 libao-devel
-libappindicator
-libappindicator-devel
 libappstream-glib
 libappstream-glib-devel
 libarchive
@@ -2990,12 +2988,6 @@ libdb4-devel
 libdbi
 libdbi-devel
 libdbi-drivers
-libdbusmenu
-libdbusmenu-devel
-libdbusmenu-gtk2
-libdbusmenu-gtk2-devel
-libdbusmenu-gtk3
-libdbusmenu-gtk3-devel
 libdhash
 libdhash-devel
 libdmmp
@@ -3181,10 +3173,6 @@ libimagequant
 libimagequant-devel
 libimobiledevice
 libimobiledevice-devel
-libindicator
-libindicator-devel
-libindicator-gtk3
-libindicator-gtk3-devel
 libini_config
 libini_config-devel
 libinput
@@ -3806,7 +3794,6 @@ lvm2-dbusd
 lvm2-devel
 lvm2-libs
 lvm2-lockd
-lxpolkit
 lynx
 lz4
 lz4-devel
@@ -4579,8 +4566,6 @@ ntfs-3g
 ntfsprogs
 ntp
 ntsysv
-nunit
-nunit-devel
 nuxwdog
 nuxwdog-client-java
 nvme-cli
@@ -8840,8 +8825,6 @@ undertow
 unicode-emoji
 unicode-ucd
 uniconvertor
-unique
-unique-devel
 units
 unixODBC
 unixODBC-devel

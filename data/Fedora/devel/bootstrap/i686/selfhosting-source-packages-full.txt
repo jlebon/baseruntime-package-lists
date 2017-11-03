@@ -1412,7 +1412,6 @@ libaec-1.0.1-4.fc27.src
 libaesgm-20090429-15.fc27.src
 libaio-0.3.110-9.fc27.src
 libao-1.2.0-9.fc27.src
-libappindicator-12.10.0-16.fc27.src
 libappstream-glib-0.7.2-1.fc28.src
 libarchive-3.3.1-3.fc27.src
 libart_lgpl-2.3.21-18.fc27.src
@@ -1453,7 +1452,6 @@ libdb-5.3.28-26.fc27.src
 libdb4-4.8.30-23.fc27.src
 libdbi-0.9.0-9.fc27.src
 libdbi-drivers-0.9.0-8.fc27.src
-libdbusmenu-16.04.0-4.fc27.src
 libdmx-1.1.3-9.fc27.src
 libdnet-1.12-23.fc28.src
 libdnf-0.11.1-1.fc28.src
@@ -1527,7 +1525,6 @@ libiec61883-1.2.0-17.fc27.src
 libieee1284-0.2.11-25.fc28.src
 libimagequant-2.10.2-1.fc27.src
 libimobiledevice-1.2.0-11.fc27.src
-libindicator-12.10.1-11.fc27.src
 libinput-1.8.1-3.fc27.src
 libipt-1.6.1-4.fc27.src
 libiptcdata-1.0.4-20.fc28.src
@@ -1757,7 +1754,6 @@ lucene4-4.10.4-9.fc27.src
 luksmeta-7-3.fc27.src
 lutok-0.4-10.fc27.src
 lvm2-2.02.174-2.fc28.src
-lxsession-0.5.3-2.fc27.3.src
 lynx-2.8.9-0.20.dev16.fc27.src
 lz4-1.8.0-1.fc28.src
 lz4-java-1.3.0-8.fc27.src
@@ -2323,7 +2319,6 @@ ntp-4.2.8p10-3.fc27.src
 numactl-2.0.11-5.fc27.src
 numad-0.5-24.20150602git.fc27.src
 numpy-1:1.13.1-4.fc27.src
-nunit-3.7.1-3.fc27.src
 nuxwdog-1.0.3-11.fc27.src
 nvme-cli-1.3-3.fc27.src
 objectweb-asm-5.1-8.fc27.src
@@ -4112,7 +4107,6 @@ undertow-1:1.4.0-3.fc27.src
 unicode-emoji-5.0-2.fc27.src
 unicode-ucd-10.0.0-2.fc27.src
 uniconvertor-2.0-0.14.svn362.fc27.src
-unique-1.1.6-18.fc27.src
 units-2.14-3.fc27.src
 unixODBC-2.3.4-7.fc27.src
 unixODBC-gui-qt-0-0.16.20120105svn98.fc27.src
