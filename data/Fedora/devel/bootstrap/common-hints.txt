@@ -5,6 +5,7 @@ curl-minimal
 environment-modules
 fedora-release
 glibc-minimal-langpack
+gnome-shell
 java-1.8.0-openjdk-javadoc
 kernel-core
 kernel-devel

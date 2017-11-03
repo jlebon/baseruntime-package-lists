@@ -4,8 +4,6 @@ bcc
 binutils
 boost
 ceph
-cinnamon
-cinnamon-settings-daemon
 cockpit
 community-mysql
 corosync
