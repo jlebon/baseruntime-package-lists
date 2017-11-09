@@ -167,7 +167,7 @@ bea-stax-1.2.0-15.fc27.src
 bean-validation-api-1.1.0-8.fc27.src
 beust-jcommander-1.71-2.fc27.src
 bind-32:9.11.1-6.P3.fc27.src
-bind99-9.9.10-1.P3.fc27.src
+bind99-9.9.11-2.fc27.src
 binutils-2.29-9.fc28.src
 bison-3.0.4-8.fc27.src
 bitstream-vera-fonts-1.10-30.fc27.src
@@ -292,7 +292,7 @@ derby-10.13.1.1-2.fc27.src
 desktop-file-utils-0.23-5.fc27.src
 device-mapper-multipath-0.7.1-6.git847cc43.fc27.src
 device-mapper-persistent-data-0.7.0-0.6.rc6.fc27.src
-dhcp-12:4.3.6-4.fc27.src
+dhcp-12:4.3.6-6.fc28.src
 diffstat-1.61-5.fc27.src
 diffutils-3.6-3.fc27.src
 ding-libs-0.6.0-33.fc27.src

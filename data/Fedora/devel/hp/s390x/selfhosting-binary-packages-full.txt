@@ -360,9 +360,9 @@ bind-libs-32:9.11.1-6.P3.fc27.s390x
 bind-libs-lite-32:9.11.1-6.P3.fc27.s390x
 bind-license-32:9.11.1-6.P3.fc27.noarch
 bind-utils-32:9.11.1-6.P3.fc27.s390x
-bind99-devel-9.9.10-1.P3.fc27.s390x
-bind99-libs-9.9.10-1.P3.fc27.s390x
-bind99-license-9.9.10-1.P3.fc27.noarch
+bind99-devel-9.9.11-2.fc27.s390x
+bind99-libs-9.9.11-2.fc27.s390x
+bind99-license-9.9.11-2.fc27.noarch
 binutils-2.29-9.fc28.s390x
 binutils-aarch64-linux-gnu-2.29-3.fc27.s390x
 binutils-alpha-linux-gnu-2.29-3.fc27.s390x
@@ -624,9 +624,9 @@ device-mapper-libs-1.02.143-2.fc28.s390x
 device-mapper-multipath-0.7.1-6.git847cc43.fc27.s390x
 device-mapper-multipath-libs-0.7.1-6.git847cc43.fc27.s390x
 device-mapper-persistent-data-0.7.0-0.6.rc6.fc27.s390x
-dhcp-client-12:4.3.6-4.fc27.s390x
-dhcp-common-12:4.3.6-4.fc27.noarch
-dhcp-libs-12:4.3.6-4.fc27.s390x
+dhcp-client-12:4.3.6-6.fc28.s390x
+dhcp-common-12:4.3.6-6.fc28.noarch
+dhcp-libs-12:4.3.6-6.fc28.s390x
 diffstat-1.61-5.fc27.s390x
 diffutils-3.6-3.fc27.s390x
 disruptor-3.3.6-3.fc27.noarch

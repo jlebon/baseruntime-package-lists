@@ -12,8 +12,8 @@ authconfig-7.0.1-4.fc27.s390x
 basesystem-11-4.fc27.noarch
 bash-4.4.12-10.fc28.s390x
 bash-completion-1:2.6-2.fc27.noarch
-bind99-libs-9.9.10-1.P3.fc27.s390x
-bind99-license-9.9.10-1.P3.fc27.noarch
+bind99-libs-9.9.11-2.fc27.s390x
+bind99-license-9.9.11-2.fc27.noarch
 bridge-utils-1.5-16.fc27.s390x
 btrfs-progs-4.11.1-3.fc27.s390x
 bubblewrap-0.1.8-3.fc27.s390x
@@ -50,9 +50,9 @@ device-mapper-event-1.02.143-2.fc28.s390x
 device-mapper-event-libs-1.02.143-2.fc28.s390x
 device-mapper-libs-1.02.143-2.fc28.s390x
 device-mapper-persistent-data-0.7.0-0.6.rc6.fc27.s390x
-dhcp-client-12:4.3.6-4.fc27.s390x
-dhcp-common-12:4.3.6-4.fc27.noarch
-dhcp-libs-12:4.3.6-4.fc27.s390x
+dhcp-client-12:4.3.6-6.fc28.s390x
+dhcp-common-12:4.3.6-6.fc28.noarch
+dhcp-libs-12:4.3.6-6.fc28.s390x
 diffutils-3.6-3.fc27.s390x
 docker-2:1.13.1-30.gitb5e3294.fc28.s390x
 docker-common-2:1.13.1-30.gitb5e3294.fc28.s390x

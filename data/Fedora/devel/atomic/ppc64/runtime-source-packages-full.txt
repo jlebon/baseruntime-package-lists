@@ -7,7 +7,7 @@ authconfig-7.0.1-4.fc27.src
 basesystem-11-4.fc27.src
 bash-4.4.12-10.fc28.src
 bash-completion-1:2.6-2.fc27.src
-bind99-9.9.10-1.P3.fc27.src
+bind99-9.9.11-2.fc27.src
 bridge-utils-1.5-16.fc27.src
 btrfs-progs-4.11.1-3.fc27.src
 bubblewrap-0.1.8-3.fc27.src
@@ -29,7 +29,7 @@ curl-7.55.1-3.fc28.src
 cyrus-sasl-2.1.26-34.fc27.src
 dbus-1:1.11.16-4.fc27.src
 device-mapper-persistent-data-0.7.0-0.6.rc6.fc27.src
-dhcp-12:4.3.6-4.fc27.src
+dhcp-12:4.3.6-6.fc28.src
 diffutils-3.6-3.fc27.src
 ding-libs-0.6.0-33.fc27.src
 dracut-046-7.git20170824.fc28.src
