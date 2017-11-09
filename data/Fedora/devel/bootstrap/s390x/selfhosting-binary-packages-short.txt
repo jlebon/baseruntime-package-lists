@@ -173,6 +173,7 @@ amanda-server
 amtterm
 anaconda
 anaconda-core
+anaconda-dracut
 anaconda-gui
 anaconda-tui
 anaconda-user-help
@@ -357,6 +358,7 @@ atlas-z10-static
 atlas-z196
 atlas-z196-devel
 atlas-z196-static
+atmel-firmware
 atomic
 atomic-registries
 attica
@@ -515,6 +517,7 @@ bea-stax
 bea-stax-api
 bean-validation-api
 beust-jcommander
+bfa-firmware
 bibutils-devel
 bibutils-libs
 bind
@@ -1050,6 +1053,7 @@ docbook2X
 docbook5-schemas
 docbook5-style-xsl
 docker
+docker-anaconda-addon
 docker-client-java
 docker-common
 docker-devel
@@ -1078,6 +1082,7 @@ dracut-caps
 dracut-config-generic
 dracut-config-rescue
 dracut-fips
+dracut-live
 dracut-network
 dracut-tools
 driverctl
@@ -1456,6 +1461,7 @@ foomatic-db-filesystem
 foomatic-db-ppds
 fop
 forge-parent
+fpaste
 fpc-srpm-macros
 fping
 freeglut
@@ -1538,6 +1544,7 @@ gdal-libs
 gdal-python
 gdal-python3
 gdb
+gdb-gdbserver
 gdb-headless
 gdbm
 gdbm-devel
@@ -2691,6 +2698,7 @@ icedax
 icedtea-web
 icedtea-web-devel
 icedtea-web-javadoc
+icfg
 icoutils
 icu
 icu4j
@@ -2740,6 +2748,8 @@ iptraf-ng
 iptstate
 iputils
 ipvsadm
+ipw2100-firmware
+ipw2200-firmware
 ipxe-bootimgs
 ipxe-roms
 ipxe-roms-qemu
@@ -2771,6 +2781,22 @@ itstool
 ivshmem-tools
 ivy-local
 iw
+iwl100-firmware
+iwl1000-firmware
+iwl105-firmware
+iwl135-firmware
+iwl2000-firmware
+iwl2030-firmware
+iwl3160-firmware
+iwl3945-firmware
+iwl4965-firmware
+iwl5000-firmware
+iwl5150-firmware
+iwl6000-firmware
+iwl6000g2a-firmware
+iwl6000g2b-firmware
+iwl6050-firmware
+iwl7260-firmware
 iwpmd
 jBCrypt
 jFormatString
@@ -3135,6 +3161,7 @@ kernel-modules
 kernel-modules-extra
 kernelshark
 kexec-tools
+kexec-tools-anaconda-addon
 keybinder3
 keycloak-httpd-client-install
 keyutils
@@ -3352,6 +3379,7 @@ libblockdev-kbd-devel
 libblockdev-loop
 libblockdev-loop-devel
 libblockdev-lvm
+libblockdev-lvm-dbus
 libblockdev-lvm-devel
 libblockdev-mdraid
 libblockdev-mdraid-devel
@@ -3483,6 +3511,10 @@ liberation-fonts-common
 liberation-mono-fonts
 liberation-sans-fonts
 liberation-serif-fonts
+libertas-sd8686-firmware
+libertas-sd8787-firmware
+libertas-usb8388-firmware
+libertas-usb8388-olpc-firmware
 libestr
 libestr-devel
 libetonyek
@@ -5100,6 +5132,7 @@ nodejs-yamlish
 nodejs-yargs
 nodeunit
 noggit
+notification-daemon
 npm
 npth
 npth-devel
@@ -7836,6 +7869,7 @@ rygel
 s390utils
 s390utils-base
 s390utils-cmsfs
+s390utils-cmsfs-fuse
 s390utils-cpuplugd
 s390utils-iucvterm
 s390utils-mon_statd
@@ -9606,6 +9640,7 @@ ucpp
 ucpp-libs
 ucs-miscfixed-fonts
 udisks2
+udisks2-iscsi
 uglify-js
 uglify-js1
 uhttpmock
@@ -9667,6 +9702,7 @@ varnish-devel
 varnish-docs
 varnish-libs
 varnish-modules
+vconfig
 velocity
 velocity-tools
 vemana2000-fonts
@@ -9923,6 +9959,7 @@ yum
 yum-metadata-parser
 zbar
 zbar-devel
+zd1211-firmware
 zeitgeist
 zeitgeist-devel
 zeitgeist-libs
