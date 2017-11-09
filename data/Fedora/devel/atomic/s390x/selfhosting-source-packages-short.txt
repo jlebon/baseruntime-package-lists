@@ -571,6 +571,7 @@ gpars
 gperf
 gperftools
 gpgme
+gphoto2
 gpm
 gradle
 grantlee
@@ -3091,6 +3092,7 @@ uid_wrapper
 uima-addons
 uima-parent-pom
 uimaj
+umockdev
 unbound
 undertow
 unicode-emoji

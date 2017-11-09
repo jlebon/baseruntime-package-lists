@@ -1127,6 +1127,7 @@ gperftools-devel
 gperftools-libs
 gpgme
 gpgme-devel
+gphoto2
 gpm
 gpm-devel
 gpm-libs
@@ -6360,6 +6361,8 @@ uima-addons
 uima-parent-pom
 uima-pear-maven-plugin
 uimaj
+umockdev
+umockdev-devel
 unbound-devel
 unbound-libs
 undertow

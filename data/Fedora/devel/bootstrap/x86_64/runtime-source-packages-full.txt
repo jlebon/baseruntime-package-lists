@@ -1077,7 +1077,7 @@ libgrss-0.7.0-5.fc27.src
 libgsf-1.14.41-4.fc27.src
 libgta-1.0.7-6.fc27.src
 libgtop2-2.37.90-1.fc27.src
-libgudev-230-6.fc27.src
+libgudev-232-1.fc27.src
 libguestfs-1:1.37.21-2.fc28.src
 libgusb-0.2.11-3.fc27.src
 libgweather-3.25.91-1.fc28.src
@@ -1109,7 +1109,7 @@ libkml-1.3.0-8.fc27.src
 libksba-1.3.5-5.fc27.src
 liblangtag-0.6.2-4.fc27.src
 liblayout-0.2.10-14.fc27.src
-libldb-1.2.1-3.fc27.src
+libldb-1.2.2-1.fc27.src
 libldm-0.2.3-9.fc24.src
 libloader-1.1.3-16.fc27.src
 liblockfile-1.09-7.fc27.src

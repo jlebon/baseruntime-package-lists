@@ -1971,7 +1971,7 @@ libgrss-0.7.0-5.fc27.armv7hl
 libgsf-1.14.41-4.fc27.armv7hl
 libgta-1.0.7-6.fc27.armv7hl
 libgtop2-2.37.90-1.fc27.armv7hl
-libgudev-230-6.fc27.armv7hl
+libgudev-232-1.fc27.armv7hl
 libguestfs-1:1.37.21-2.fc28.armv7hl
 libguestfs-bash-completion-1:1.37.21-2.fc28.noarch
 libguestfs-devel-1:1.37.21-2.fc28.armv7hl
@@ -2039,8 +2039,8 @@ libksba-1.3.5-5.fc27.armv7hl
 liblangtag-0.6.2-4.fc27.armv7hl
 liblangtag-data-0.6.2-4.fc27.noarch
 liblayout-0.2.10-14.fc27.noarch
-libldb-1.2.1-3.fc27.armv7hl
-libldb-devel-1.2.1-3.fc27.armv7hl
+libldb-1.2.2-1.fc27.armv7hl
+libldb-devel-1.2.2-1.fc27.armv7hl
 libldm-0.2.3-9.fc24.armv7hl
 libloader-1.1.3-16.fc27.noarch
 liblockfile-1.09-7.fc27.armv7hl
@@ -3511,7 +3511,7 @@ python2-keycloak-httpd-client-install-0.6-2.fc27.noarch
 python2-kickstart-2.37-2.fc28.noarch
 python2-kmod-0.9-16.fc28.armv7hl
 python2-ldap-2.4.25-7.fc28.armv7hl
-python2-ldb-1.2.1-3.fc27.armv7hl
+python2-ldb-1.2.2-1.fc27.armv7hl
 python2-libcomps-0.1.8-6.fc28.armv7hl
 python2-libguestfs-1:1.37.21-2.fc28.armv7hl
 python2-libipa_hbac-1.15.3-2.fc27.armv7hl
@@ -3710,7 +3710,7 @@ python3-kdcproxy-0.3.2-8.fc27.noarch
 python3-keycloak-httpd-client-install-0.6-2.fc27.noarch
 python3-kickstart-2.37-2.fc28.noarch
 python3-kmod-0.9-16.fc28.armv7hl
-python3-ldb-1.2.1-3.fc27.armv7hl
+python3-ldb-1.2.2-1.fc27.armv7hl
 python3-libcomps-0.1.8-6.fc28.armv7hl
 python3-libguestfs-1:1.37.21-2.fc28.armv7hl
 python3-libipa_hbac-1.15.3-2.fc27.armv7hl

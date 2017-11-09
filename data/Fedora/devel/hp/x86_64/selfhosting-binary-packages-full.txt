@@ -1144,6 +1144,7 @@ gperftools-devel-2.6.1-3.fc27.x86_64
 gperftools-libs-2.6.1-3.fc27.x86_64
 gpgme-1.9.0-6.fc28.x86_64
 gpgme-devel-1.9.0-6.fc28.x86_64
+gphoto2-2.5.14-3.fc27.x86_64
 gpm-1.20.7-13.fc28.x86_64
 gpm-devel-1.20.7-13.fc28.x86_64
 gpm-libs-1.20.7-13.fc28.x86_64
@@ -2047,8 +2048,8 @@ libgpg-error-1.27-3.fc27.x86_64
 libgpg-error-devel-1.27-3.fc27.x86_64
 libgphoto2-2.5.14-3.fc27.x86_64
 libgphoto2-devel-2.5.14-3.fc27.x86_64
-libgudev-230-6.fc27.x86_64
-libgudev-devel-230-6.fc27.x86_64
+libgudev-232-1.fc27.x86_64
+libgudev-devel-232-1.fc27.x86_64
 libgusb-0.2.11-3.fc27.x86_64
 libgusb-devel-0.2.11-3.fc27.x86_64
 libib-util-3.0.2.32703-3.fc27.x86_64
@@ -2090,8 +2091,8 @@ libkate-0.4.1-11.fc27.x86_64
 libkate-devel-0.4.1-11.fc27.x86_64
 libksba-1.3.5-5.fc27.x86_64
 libksba-devel-1.3.5-5.fc27.x86_64
-libldb-1.2.1-3.fc27.x86_64
-libldb-devel-1.2.1-3.fc27.x86_64
+libldb-1.2.2-1.fc27.x86_64
+libldb-devel-1.2.2-1.fc27.x86_64
 liblockfile-1.09-7.fc27.x86_64
 liblockfile-devel-1.09-7.fc27.x86_64
 liblzf-3.6-14.fc27.x86_64
@@ -4178,7 +4179,7 @@ pygtk2-doc-2.24.0-18.fc27.noarch
 pyliblzma-0.5.3-19.fc27.x86_64
 python-backports-ssl_match_hostname-3.5.0.1-5.fc27.noarch
 python-keyczar-0.71c-9.fc27.noarch
-python-ldb-devel-common-1.2.1-3.fc27.x86_64
+python-ldb-devel-common-1.2.2-1.fc27.x86_64
 python-pep8-1.6.2-9.fc27.noarch
 python-qt5-5.9-6.fc27.x86_64
 python-qt5-base-5.9-6.fc27.x86_64
@@ -4255,8 +4256,8 @@ python2-kerberos-1.2.5-5.fc27.x86_64
 python2-keyring-10.4.0-2.fc27.noarch
 python2-koji-1.13.0-4.fc27.noarch
 python2-krbv-1.0.90-17.fc28.x86_64
-python2-ldb-1.2.1-3.fc27.x86_64
-python2-ldb-devel-1.2.1-3.fc27.x86_64
+python2-ldb-1.2.2-1.fc27.x86_64
+python2-ldb-devel-1.2.2-1.fc27.x86_64
 python2-libcomps-0.1.8-6.fc28.x86_64
 python2-libfdt-1.4.4-4.fc27.x86_64
 python2-libplist-2.0.0-5.fc28.x86_64
@@ -4430,8 +4431,8 @@ python3-kerberos-1.2.5-5.fc27.x86_64
 python3-keyring-10.4.0-2.fc27.noarch
 python3-kmod-0.9-16.fc28.x86_64
 python3-koji-1.13.0-4.fc27.noarch
-python3-ldb-1.2.1-3.fc27.x86_64
-python3-ldb-devel-1.2.1-3.fc27.x86_64
+python3-ldb-1.2.2-1.fc27.x86_64
+python3-ldb-devel-1.2.2-1.fc27.x86_64
 python3-libcomps-0.1.8-6.fc28.x86_64
 python3-librepo-1.8.0-1.fc28.x86_64
 python3-libs-3.6.2-13.fc27.x86_64
@@ -6470,6 +6471,8 @@ uima-addons-2.3.1-9.fc27.noarch
 uima-parent-pom-10-3.fc26.noarch
 uima-pear-maven-plugin-2.8.1-5.fc27.noarch
 uimaj-2.8.1-5.fc27.noarch
+umockdev-0.9.2-1.fc27.x86_64
+umockdev-devel-0.9.2-1.fc27.x86_64
 unbound-devel-1.6.4-3.fc27.x86_64
 unbound-libs-1.6.4-3.fc27.x86_64
 undertow-1:1.4.0-3.fc27.noarch

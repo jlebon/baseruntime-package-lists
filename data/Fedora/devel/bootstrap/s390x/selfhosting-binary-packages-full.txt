@@ -2198,6 +2198,7 @@ gpgme-1.9.0-6.fc28.s390x
 gpgme-devel-1.9.0-6.fc28.s390x
 gpgmepp-1.9.0-6.fc28.s390x
 gpgmepp-devel-1.9.0-6.fc28.s390x
+gphoto2-2.5.14-3.fc27.s390x
 gpm-1.20.7-13.fc28.s390x
 gpm-devel-1.20.7-13.fc28.s390x
 gpm-libs-1.20.7-13.fc28.s390x
@@ -3529,8 +3530,8 @@ libgta-1.0.7-6.fc27.s390x
 libgta-devel-1.0.7-6.fc27.s390x
 libgtop2-2.37.90-1.fc27.s390x
 libgtop2-devel-2.37.90-1.fc27.s390x
-libgudev-230-6.fc27.s390x
-libgudev-devel-230-6.fc27.s390x
+libgudev-232-1.fc27.s390x
+libgudev-devel-232-1.fc27.s390x
 libguestfs-1:1.37.21-2.fc28.s390x
 libguestfs-bash-completion-1:1.37.21-2.fc28.noarch
 libguestfs-devel-1:1.37.21-2.fc28.s390x
@@ -3630,8 +3631,8 @@ liblangtag-data-0.6.2-4.fc27.noarch
 liblangtag-devel-0.6.2-4.fc27.s390x
 liblangtag-gobject-0.6.2-4.fc27.s390x
 liblayout-0.2.10-14.fc27.noarch
-libldb-1.2.1-3.fc27.s390x
-libldb-devel-1.2.1-3.fc27.s390x
+libldb-1.2.2-1.fc27.s390x
+libldb-devel-1.2.2-1.fc27.s390x
 libldm-0.2.3-9.fc24.s390x
 libldm-devel-0.2.3-9.fc24.s390x
 libloader-1.1.3-16.fc27.noarch
@@ -6476,7 +6477,7 @@ python-backports-ssl_match_hostname-3.5.0.1-5.fc27.noarch
 python-blist-1.3.6-12.fc27.s390x
 python-docker-py-1:1.10.6-5.fc27.noarch
 python-keyczar-0.71c-9.fc27.noarch
-python-ldb-devel-common-1.2.1-3.fc27.s390x
+python-ldb-devel-common-1.2.2-1.fc27.s390x
 python-libcomps-doc-0.1.8-6.fc28.noarch
 python-matplotlib-data-2.0.0-3.fc27.noarch
 python-matplotlib-data-fonts-2.0.0-3.fc27.noarch
@@ -6649,8 +6650,8 @@ python2-kmod-0.9-16.fc28.s390x
 python2-latexcodec-1.0.5-2.fc27.noarch
 python2-lazy-object-proxy-1.3.1-3.fc27.s390x
 python2-ldap-2.4.25-7.fc28.s390x
-python2-ldb-1.2.1-3.fc27.s390x
-python2-ldb-devel-1.2.1-3.fc27.s390x
+python2-ldb-1.2.2-1.fc27.s390x
+python2-ldb-devel-1.2.2-1.fc27.s390x
 python2-lesscpy-0.10.1-11.fc28.noarch
 python2-libcomps-0.1.8-6.fc28.s390x
 python2-libfdt-1.4.4-4.fc27.s390x
@@ -7011,8 +7012,8 @@ python3-kickstart-2.37-2.fc28.noarch
 python3-kmod-0.9-16.fc28.s390x
 python3-latexcodec-1.0.5-2.fc27.noarch
 python3-lazy-object-proxy-1.3.1-3.fc27.s390x
-python3-ldb-1.2.1-3.fc27.s390x
-python3-ldb-devel-1.2.1-3.fc27.s390x
+python3-ldb-1.2.2-1.fc27.s390x
+python3-ldb-devel-1.2.2-1.fc27.s390x
 python3-libcomps-0.1.8-6.fc28.s390x
 python3-libguestfs-1:1.37.21-2.fc28.s390x
 python3-libipa_hbac-1.15.3-2.fc27.s390x
@@ -9535,6 +9536,8 @@ uima-addons-2.3.1-9.fc27.noarch
 uima-parent-pom-10-3.fc26.noarch
 uima-pear-maven-plugin-2.8.1-5.fc27.noarch
 uimaj-2.8.1-5.fc27.noarch
+umockdev-0.9.2-1.fc27.s390x
+umockdev-devel-0.9.2-1.fc27.s390x
 unbound-1.6.4-3.fc27.s390x
 unbound-devel-1.6.4-3.fc27.s390x
 unbound-libs-1.6.4-3.fc27.s390x

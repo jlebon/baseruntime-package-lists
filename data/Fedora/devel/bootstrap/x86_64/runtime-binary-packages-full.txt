@@ -2044,7 +2044,7 @@ libgrss-0.7.0-5.fc27.x86_64
 libgsf-1.14.41-4.fc27.x86_64
 libgta-1.0.7-6.fc27.x86_64
 libgtop2-2.37.90-1.fc27.x86_64
-libgudev-230-6.fc27.x86_64
+libgudev-232-1.fc27.x86_64
 libguestfs-1:1.37.21-2.fc28.x86_64
 libguestfs-bash-completion-1:1.37.21-2.fc28.noarch
 libguestfs-benchmarking-1:1.37.21-2.fc28.x86_64
@@ -2127,8 +2127,8 @@ libksba-1.3.5-5.fc27.x86_64
 liblangtag-0.6.2-4.fc27.x86_64
 liblangtag-data-0.6.2-4.fc27.noarch
 liblayout-0.2.10-14.fc27.noarch
-libldb-1.2.1-3.fc27.x86_64
-libldb-devel-1.2.1-3.fc27.x86_64
+libldb-1.2.2-1.fc27.x86_64
+libldb-devel-1.2.2-1.fc27.x86_64
 libldm-0.2.3-9.fc24.x86_64
 libloader-1.1.3-16.fc27.noarch
 liblockfile-1.09-7.fc27.x86_64
@@ -3653,7 +3653,7 @@ python2-keycloak-httpd-client-install-0.6-2.fc27.noarch
 python2-kickstart-2.37-2.fc28.noarch
 python2-kmod-0.9-16.fc28.x86_64
 python2-ldap-2.4.25-7.fc28.x86_64
-python2-ldb-1.2.1-3.fc27.x86_64
+python2-ldb-1.2.2-1.fc27.x86_64
 python2-libcomps-0.1.8-6.fc28.x86_64
 python2-libguestfs-1:1.37.21-2.fc28.x86_64
 python2-libipa_hbac-1.15.3-2.fc27.x86_64
@@ -3852,7 +3852,7 @@ python3-kdcproxy-0.3.2-8.fc27.noarch
 python3-keycloak-httpd-client-install-0.6-2.fc27.noarch
 python3-kickstart-2.37-2.fc28.noarch
 python3-kmod-0.9-16.fc28.x86_64
-python3-ldb-1.2.1-3.fc27.x86_64
+python3-ldb-1.2.2-1.fc27.x86_64
 python3-libcomps-0.1.8-6.fc28.x86_64
 python3-libguestfs-1:1.37.21-2.fc28.x86_64
 python3-libipa_hbac-1.15.3-2.fc27.x86_64
