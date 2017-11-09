@@ -41,6 +41,7 @@ libappindicator
 libdb4
 libfabric
 libguestfs
+libunicap
 libvirt
 meson
 opencv

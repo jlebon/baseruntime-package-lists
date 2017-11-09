@@ -5,6 +5,7 @@ GeoIP-1.6.11-3.fc27.src
 GeoIP-GeoLite-data-2017.08-1.fc27.src
 ImageMagick-7.0.6.9-4.fc28.src
 Judy-1.0.5-15.fc27.src
+LibRaw-0.18.2-4.fc27.src
 ModemManager-1.6.4-4.fc27.src
 NFStest-2.1.5-2.fc27.src
 NetworkManager-1:1.8.2-3.fc27.2.src
@@ -192,6 +193,8 @@ conntrack-tools-1.4.4-5.fc27.src
 container-selinux-2:2.21-3.fc27.src
 container-storage-setup-0.6.0-2.giteb688d4.fc27.src
 control-center-1:3.25.91-1.fc28.src
+convmv-2.01-2.fc27.src
+coolkey-1.1.0-35.fc27.src
 copy-jdk-configs-2.3-2.fc27.src
 coreutils-8.28-1.fc28.src
 corosync-2.4.2-7.fc28.src
@@ -213,6 +216,7 @@ cups-filters-1.16.3-1.fc28.src
 cups-pk-helper-0.2.6-4.fc27.src
 curl-7.55.1-3.fc28.src
 custodia-0.5.0-9.fc27.src
+cvs-1.11.23-44.fc27.src
 cyrus-imapd-3.0.3-1.fc27.src
 cyrus-sasl-2.1.26-34.fc27.src
 dash-0.5.9-4.fc27.src
@@ -232,10 +236,12 @@ devhelp-1:3.25.91-1.fc28.src
 device-mapper-multipath-0.7.1-6.git847cc43.fc27.src
 device-mapper-persistent-data-0.7.0-0.6.rc6.fc27.src
 dhcp-12:4.3.6-4.fc27.src
+dialog-1.3-10.20170509.fc27.src
 diffutils-3.6-3.fc27.src
 ding-libs-0.6.0-33.fc27.src
 dleyna-connector-dbus-0.2.0-10.fc27.src
 dleyna-core-0.5.0-7.fc27.src
+dleyna-renderer-0.5.0-8.fc27.src
 dleyna-server-0.5.0-8.fc27.src
 dlm-4.0.6-6.fc28.src
 dmraid-1.0.0.rc16-34.fc27.src
@@ -281,6 +287,7 @@ environment-modules-3.2.10-23.fc27.src
 eog-3.25.90-1.fc27.src
 epiphany-1:3.25.91-1.fc28.src
 erlang-19.3.6.2-2.fc27.src
+esc-1.1.1-1.fc27.src
 espeak-1.48.04-12.fc27.src
 etcd-3.1.9-3.fc27.src
 ethtool-2:4.11-2.fc27.src
@@ -345,6 +352,7 @@ freerdp1.2-1.2.0-9.fc27.src
 freetds-1.00.38-4.fc27.src
 freetype-2.8-5.fc27.src
 freexl-1.0.3-3.fc27.src
+frei0r-plugins-1.6.1-2.fc27.src
 fros-1.1-13.fc27.src
 ftp-0.17-74.fc27.src
 fuse-2.9.7-9.fc27.src
@@ -352,6 +360,7 @@ fwupd-0.9.8-1.fc27.src
 fxload-2008_10_13-7.fc27.src
 galera-25.3.16-6.fc27.src
 gamin-0.1.10-29.fc28.src
+gavl-1.4.0-11.fc27.src
 gawk-4.1.4-5.fc27.src
 gc-7.6.0-7.fc27.src
 gcab-0.7-4.fc27.src
@@ -367,6 +376,7 @@ gdm-1:3.25.90.1-1.fc27.src
 gedit-2:3.22.1-2.fc27.src
 gedit-plugins-3.22.0-4.fc27.src
 gegl-0.2.0-34.fc27.src
+gegl03-0.3.20-1.fc28.src
 genwqe-tools-4.0.18-4.fc27.src
 geoclue2-2.4.5-6.fc27.src
 geocode-glib-3.25.4.1-1.fc27.src
@@ -448,6 +458,7 @@ gnome-logs-3.25.91-1.fc28.src
 gnome-menus-3.13.3-8.fc27.src
 gnome-online-accounts-3.26.0-2.fc28.src
 gnome-online-miners-3.25.90-1.fc27.src
+gnome-photos-3.25.91-1.fc28.src
 gnome-python2-2.28.1-21.fc27.src
 gnome-screenshot-3.25.0-1.fc27.src
 gnome-session-3.25.90-1.fc27.src
@@ -461,6 +472,7 @@ gnome-themes-standard-3.22.3-4.fc27.src
 gnome-tweak-tool-3.25.91-1.fc28.src
 gnome-user-docs-3.25.90-1.fc27.src
 gnome-vfs2-2.24.4-25.fc27.src
+gnome-video-effects-0.4.3-2.fc27.src
 gnome-weather-3.24.0-2.fc27.src
 gnu-free-fonts-20120503-15.fc27.src
 gnupg-1.4.22-3.fc27.src
@@ -560,6 +572,7 @@ google-crosextra-caladea-fonts-1.002-0.9.20130214.fc27.src
 google-crosextra-carlito-fonts-1.103-0.7.20130920.fc27.src
 google-guice-4.1-7.fc27.src
 google-noto-cjk-fonts-20170602-2.fc27.src
+google-noto-emoji-fonts-20170608-2.fc27.src
 google-noto-fonts-20161022-4.fc27.src
 gpars-1.2.1-9.fc27.src
 gpart-0.3-5.fc27.src
@@ -818,7 +831,9 @@ ibus-libzhuyin-1.8.0-1.fc28.src
 ibus-m17n-1.3.4-24.fc27.src
 ibus-qt-1.3.3-15.fc27.src
 ibus-rawcode-1.3.2-11.fc27.src
+ibus-sayura-1.3.2-12.fc27.src
 ibus-table-1.9.18-1.fc27.src
+ibus-table-chinese-1.8.2-8.fc27.src
 ibus-typing-booster-1.5.32-3.fc27.src
 icedtea-web-1.7-4.fc28.src
 icoutils-0.31.3-3.fc27.src
@@ -842,6 +857,8 @@ iproute-4.12.0-3.fc27.src
 iprutils-2.4.14.1-3.fc27.src
 ipset-6.32-1.fc27.src
 iptables-1.6.1-4.fc27.src
+iptraf-ng-1.1.4-15.fc27.src
+iptstate-2.2.6-4.fc27.src
 iputils-20161105-7.fc27.src
 ipvsadm-1.29-4.fc27.src
 ipxe-20161108-2.gitb991c67.fc26.src
@@ -924,6 +941,7 @@ lcms2-2.8-5.fc27.src
 ldapjdk-4.19-1.fc27.src
 ldns-1.7.0-8.fc28.src
 ledmon-0.80-4.fc27.src
+leptonica-1.74.4-3.fc27.src
 less-487-5.fc27.src
 lftp-4.8.0-3.fc27.src
 libICE-1.0.9-11.fc27.src
@@ -1000,6 +1018,7 @@ libdatrie-0.2.9-6.fc27.src
 libdb-5.3.28-26.fc27.src
 libdbi-0.9.0-9.fc27.src
 libdbi-drivers-0.9.0-8.fc27.src
+libdc1394-2.2.2-9.fc27.src
 libdmapsharing-2.9.37-4.fc27.src
 libdnf-0.11.1-1.fc28.src
 libdrm-2.4.82-3.fc27.src
@@ -1032,10 +1051,12 @@ libfreehand-0.1.1-7.fc27.src
 libgadu-1.12.2-4.fc27.src
 libgcrypt-1.8.1-1.fc28.src
 libgdata-0.17.9-1.fc28.src
+libgdither-0.6-14.fc27.src
 libgdl-1:3.25.91-1.fc28.src
 libgee-0.20.0-3.fc27.src
 libgeotiff-1.4.0-11.fc27.src
 libgepub-0.5.2-1.fc27.src
+libgexiv2-0.10.6-3.fc27.src
 libgit2-0.26.0-3.fc27.src
 libgit2-glib-0.26.0-2.fc27.src
 libglade2-2.6.4-17.fc27.src
@@ -1190,6 +1211,8 @@ libtirpc-1.0.2-3.fc28.src
 libtomcrypt-1.18.0-1.fc28.src
 libtommath-1.0-8.fc27.src
 libtool-2.4.6-20.fc27.src
+libucil-0.9.10-15.fc27.src
+libunicap-0.9.12-20.fc27.src
 libunistring-0.9.7-3.fc27.src
 libunwind-1.2-3.fc27.src
 libusb-1:0.1.5-10.fc27.src
@@ -1555,6 +1578,7 @@ openbox-3.6.1-5.fc27.src
 opencc-1.0.3-5.fc27.src
 openchange-2.3-16.fc27.src
 opencryptoki-3.7.0-3.fc27.src
+opencv-3.2.0-9.fc28.src
 opendnssec-1.4.9-7.fc27.src
 openhpi-3.6.1-8.fc27.src
 openjpeg2-2.2.0-1.fc27.src
@@ -1585,6 +1609,7 @@ paktype-tehreer-fonts-4.1-7.fc27.src
 pam-1.3.0-6.fc28.src
 pango-1.40.11-1.fc28.src
 pangomm-2.40.1-4.fc27.src
+paps-0.6.8-39.fc27.src
 paratype-pt-sans-fonts-20141121-5.fc27.src
 parted-3.2-28.fc27.src
 passenger-5.0.30-6.fc27.src
@@ -1771,6 +1796,7 @@ perl-Parse-PMFile-0.41-4.fc27.src
 perl-Parse-Yapp-1.21-1.fc27.src
 perl-PathTools-3.67-395.fc27.src
 perl-Perl-OSType-1.010-395.fc27.src
+perl-Perl4-CoreLibs-0.004-1.fc27.src
 perl-PerlIO-via-QuotedPrint-0.08-394.fc27.src
 perl-Plack-1.0044-3.fc27.src
 perl-Plack-Middleware-FixMissingBodyInRedirect-0.12-8.fc27.src
@@ -2294,6 +2320,7 @@ telepathy-filesystem-0.0.2-11.fc27.src
 telepathy-glib-0.24.1-7.fc27.src
 telepathy-logger-0.8.2-6.fc27.src
 telnet-1:0.17-71.fc27.src
+tesseract-3.05.01-3.fc27.src
 tex-fonts-hebrew-0.1-26.fc27.src
 texinfo-6.4-5.fc27.src
 texlive-6:2016-36.20160520.fc27.5.src
@@ -2416,6 +2443,17 @@ xmlrpc-c-1.49.02-2.fc28.src
 xmlsec1-1.2.23-4.fc27.src
 xmlstreambuffer-1.5.4-6.fc27.src
 xorg-sgml-doctools-1.11-5.fc27.src
+xorg-x11-docs-1.7.1-6.fc27.src
+xorg-x11-drivers-7.7-21.fc27.src
+xorg-x11-drv-ati-7.9.0-3.fc27.src
+xorg-x11-drv-dummy-0.3.7-5.fc27.src
+xorg-x11-drv-evdev-2.10.5-4.fc27.src
+xorg-x11-drv-fbdev-0.4.3-28.fc27.src
+xorg-x11-drv-libinput-0.25.1-4.fc27.src
+xorg-x11-drv-nouveau-1:1.0.15-3.fc27.src
+xorg-x11-drv-qxl-0.1.5-5.fc27.src
+xorg-x11-drv-v4l-0.2.0-50.fc27.src
+xorg-x11-drv-wacom-0.35.0-3.fc27.src
 xorg-x11-font-utils-1:7.5-35.fc27.src
 xorg-x11-fonts-7.5-18.fc27.src
 xorg-x11-proto-devel-7.7-23.fc27.src

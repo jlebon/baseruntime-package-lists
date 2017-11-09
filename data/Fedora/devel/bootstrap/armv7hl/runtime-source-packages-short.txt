@@ -5,6 +5,7 @@ GeoIP
 GeoIP-GeoLite-data
 ImageMagick
 Judy
+LibRaw
 ModemManager
 NFStest
 NetworkManager
@@ -192,6 +193,8 @@ conntrack-tools
 container-selinux
 container-storage-setup
 control-center
+convmv
+coolkey
 copy-jdk-configs
 coreutils
 corosync
@@ -213,6 +216,7 @@ cups-filters
 cups-pk-helper
 curl
 custodia
+cvs
 cyrus-imapd
 cyrus-sasl
 dash
@@ -232,10 +236,12 @@ devhelp
 device-mapper-multipath
 device-mapper-persistent-data
 dhcp
+dialog
 diffutils
 ding-libs
 dleyna-connector-dbus
 dleyna-core
+dleyna-renderer
 dleyna-server
 dlm
 dmraid
@@ -281,6 +287,7 @@ environment-modules
 eog
 epiphany
 erlang
+esc
 espeak
 etcd
 ethtool
@@ -345,6 +352,7 @@ freerdp1.2
 freetds
 freetype
 freexl
+frei0r-plugins
 fros
 ftp
 fuse
@@ -352,6 +360,7 @@ fwupd
 fxload
 galera
 gamin
+gavl
 gawk
 gc
 gcab
@@ -367,6 +376,7 @@ gdm
 gedit
 gedit-plugins
 gegl
+gegl03
 genwqe-tools
 geoclue2
 geocode-glib
@@ -448,6 +458,7 @@ gnome-logs
 gnome-menus
 gnome-online-accounts
 gnome-online-miners
+gnome-photos
 gnome-python2
 gnome-screenshot
 gnome-session
@@ -461,6 +472,7 @@ gnome-themes-standard
 gnome-tweak-tool
 gnome-user-docs
 gnome-vfs2
+gnome-video-effects
 gnome-weather
 gnu-free-fonts
 gnupg
@@ -560,6 +572,7 @@ google-crosextra-caladea-fonts
 google-crosextra-carlito-fonts
 google-guice
 google-noto-cjk-fonts
+google-noto-emoji-fonts
 google-noto-fonts
 gpars
 gpart
@@ -818,7 +831,9 @@ ibus-libzhuyin
 ibus-m17n
 ibus-qt
 ibus-rawcode
+ibus-sayura
 ibus-table
+ibus-table-chinese
 ibus-typing-booster
 icedtea-web
 icoutils
@@ -842,6 +857,8 @@ iproute
 iprutils
 ipset
 iptables
+iptraf-ng
+iptstate
 iputils
 ipvsadm
 ipxe
@@ -924,6 +941,7 @@ lcms2
 ldapjdk
 ldns
 ledmon
+leptonica
 less
 lftp
 libICE
@@ -1000,6 +1018,7 @@ libdatrie
 libdb
 libdbi
 libdbi-drivers
+libdc1394
 libdmapsharing
 libdnf
 libdrm
@@ -1032,10 +1051,12 @@ libfreehand
 libgadu
 libgcrypt
 libgdata
+libgdither
 libgdl
 libgee
 libgeotiff
 libgepub
+libgexiv2
 libgit2
 libgit2-glib
 libglade2
@@ -1190,6 +1211,8 @@ libtirpc
 libtomcrypt
 libtommath
 libtool
+libucil
+libunicap
 libunistring
 libunwind
 libusb
@@ -1555,6 +1578,7 @@ openbox
 opencc
 openchange
 opencryptoki
+opencv
 opendnssec
 openhpi
 openjpeg2
@@ -1585,6 +1609,7 @@ paktype-tehreer-fonts
 pam
 pango
 pangomm
+paps
 paratype-pt-sans-fonts
 parted
 passenger
@@ -1771,6 +1796,7 @@ perl-Parse-PMFile
 perl-Parse-Yapp
 perl-PathTools
 perl-Perl-OSType
+perl-Perl4-CoreLibs
 perl-PerlIO-via-QuotedPrint
 perl-Plack
 perl-Plack-Middleware-FixMissingBodyInRedirect
@@ -2294,6 +2320,7 @@ telepathy-filesystem
 telepathy-glib
 telepathy-logger
 telnet
+tesseract
 tex-fonts-hebrew
 texinfo
 texlive
@@ -2416,6 +2443,17 @@ xmlrpc-c
 xmlsec1
 xmlstreambuffer
 xorg-sgml-doctools
+xorg-x11-docs
+xorg-x11-drivers
+xorg-x11-drv-ati
+xorg-x11-drv-dummy
+xorg-x11-drv-evdev
+xorg-x11-drv-fbdev
+xorg-x11-drv-libinput
+xorg-x11-drv-nouveau
+xorg-x11-drv-qxl
+xorg-x11-drv-v4l
+xorg-x11-drv-wacom
 xorg-x11-font-utils
 xorg-x11-fonts
 xorg-x11-proto-devel

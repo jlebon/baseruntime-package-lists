@@ -9,6 +9,7 @@ ImageMagick-c++-7.0.6.9-4.fc28.aarch64
 ImageMagick-libs-7.0.6.9-4.fc28.aarch64
 ImageMagick-perl-7.0.6.9-4.fc28.aarch64
 Judy-1.0.5-15.fc27.aarch64
+LibRaw-0.18.2-4.fc27.aarch64
 ModemManager-1.6.4-4.fc27.aarch64
 ModemManager-devel-1.6.4-4.fc27.aarch64
 ModemManager-glib-1.6.4-4.fc27.aarch64
@@ -439,6 +440,7 @@ container-storage-setup-0.6.0-2.giteb688d4.fc27.noarch
 containernetworking-cni-0.5.2-5.fc27.aarch64
 control-center-1:3.25.91-1.fc28.aarch64
 control-center-filesystem-1:3.25.91-1.fc28.aarch64
+convmv-2.01-2.fc27.noarch
 copy-jdk-configs-2.3-2.fc27.noarch
 coreutils-8.28-1.fc28.aarch64
 coreutils-common-8.28-1.fc28.aarch64
@@ -499,6 +501,10 @@ cups-libs-1:2.2.4-3.fc27.aarch64
 cups-pk-helper-0.2.6-4.fc27.aarch64
 curl-7.55.1-3.fc28.aarch64
 custodia-0.5.0-9.fc27.noarch
+cvs-1.11.23-44.fc27.aarch64
+cvs-contrib-1.11.23-44.fc27.noarch
+cvs-doc-1.11.23-44.fc27.noarch
+cvs-inetd-1.11.23-44.fc27.noarch
 cyrus-imapd-3.0.3-1.fc27.aarch64
 cyrus-imapd-utils-3.0.3-1.fc27.aarch64
 cyrus-sasl-2.1.26-34.fc27.aarch64
@@ -559,9 +565,12 @@ dhcp-devel-doc-12:4.3.6-4.fc27.noarch
 dhcp-libs-12:4.3.6-4.fc27.aarch64
 dhcp-relay-12:4.3.6-4.fc27.aarch64
 dhcp-server-12:4.3.6-4.fc27.aarch64
+dialog-1.3-10.20170509.fc27.aarch64
+dialog-devel-1.3-10.20170509.fc27.aarch64
 diffutils-3.6-3.fc27.aarch64
 dleyna-connector-dbus-0.2.0-10.fc27.aarch64
 dleyna-core-0.5.0-7.fc27.aarch64
+dleyna-renderer-0.5.0-8.fc27.aarch64
 dleyna-server-0.5.0-8.fc27.aarch64
 dlm-4.0.6-6.fc28.aarch64
 dlm-devel-4.0.6-6.fc28.aarch64
@@ -857,6 +866,9 @@ freetds-libs-1.00.38-4.fc27.aarch64
 freetype-2.8-5.fc27.aarch64
 freetype-devel-2.8-5.fc27.aarch64
 freexl-1.0.3-3.fc27.aarch64
+frei0r-devel-1.6.1-2.fc27.aarch64
+frei0r-plugins-1.6.1-2.fc27.aarch64
+frei0r-plugins-opencv-1.6.1-2.fc27.aarch64
 fros-1.1-13.fc27.noarch
 ftp-0.17-74.fc27.aarch64
 fuse-2.9.7-9.fc27.aarch64
@@ -873,6 +885,7 @@ fwupdate-libs-9-0.2.fc27.aarch64
 fxload-2008_10_13-7.fc27.aarch64
 galera-25.3.16-6.fc27.aarch64
 gamin-0.1.10-29.fc28.aarch64
+gavl-1.4.0-11.fc27.aarch64
 gawk-4.1.4-5.fc27.aarch64
 gc-7.6.0-7.fc27.aarch64
 gcc-7.2.1-2.fc27.aarch64
@@ -914,6 +927,7 @@ gedit-plugin-zeitgeist-3.22.0-4.fc27.aarch64
 gedit-plugins-3.22.0-4.fc27.aarch64
 gedit-plugins-data-3.22.0-4.fc27.aarch64
 gegl-0.2.0-34.fc27.aarch64
+gegl03-0.3.20-1.fc28.aarch64
 genisoimage-1.1.11-37.fc27.aarch64
 genwqe-tools-4.0.18-4.fc27.aarch64
 genwqe-vpd-4.0.18-4.fc27.aarch64
@@ -1104,6 +1118,8 @@ gnome-menus-devel-3.13.3-8.fc27.aarch64
 gnome-online-accounts-3.26.0-2.fc28.aarch64
 gnome-online-accounts-devel-3.26.0-2.fc28.aarch64
 gnome-online-miners-3.25.90-1.fc27.aarch64
+gnome-photos-3.25.91-1.fc28.aarch64
+gnome-photos-tests-3.25.91-1.fc28.aarch64
 gnome-python2-2.28.1-21.fc27.aarch64
 gnome-python2-bonobo-2.28.1-21.fc27.aarch64
 gnome-python2-canvas-2.28.1-21.fc27.aarch64
@@ -1140,6 +1156,7 @@ gnome-tweak-tool-3.25.91-1.fc28.noarch
 gnome-user-docs-3.25.90-1.fc27.noarch
 gnome-vfs2-2.24.4-25.fc27.aarch64
 gnome-vfs2-common-2.24.4-25.fc27.noarch
+gnome-video-effects-0.4.3-2.fc27.noarch
 gnome-weather-3.24.0-2.fc27.noarch
 gnome-weather-tests-3.24.0-2.fc27.noarch
 gnu-free-fonts-common-20120503-15.fc27.noarch
@@ -1254,6 +1271,7 @@ google-crosextra-caladea-fonts-1.002-0.9.20130214.fc27.noarch
 google-crosextra-carlito-fonts-1.103-0.7.20130920.fc27.noarch
 google-guice-4.1-7.fc27.noarch
 google-noto-cjk-fonts-20170602-2.fc27.noarch
+google-noto-emoji-fonts-20170608-2.fc27.noarch
 google-noto-fonts-common-20161022-4.fc27.noarch
 google-noto-sans-lisu-fonts-20161022-4.fc27.noarch
 google-noto-sans-mandaic-fonts-20161022-4.fc27.noarch
@@ -1592,8 +1610,22 @@ ibus-libzhuyin-1.8.0-1.fc28.aarch64
 ibus-m17n-1.3.4-24.fc27.aarch64
 ibus-qt-1.3.3-15.fc27.aarch64
 ibus-rawcode-1.3.2-11.fc27.aarch64
+ibus-sayura-1.3.2-12.fc27.aarch64
 ibus-setup-1.5.16-8.fc27.noarch
 ibus-table-1.9.18-1.fc27.noarch
+ibus-table-chinese-1.8.2-8.fc27.noarch
+ibus-table-chinese-array-1.8.2-8.fc27.noarch
+ibus-table-chinese-cangjie-1.8.2-8.fc27.noarch
+ibus-table-chinese-cantonese-1.8.2-8.fc27.noarch
+ibus-table-chinese-easy-1.8.2-8.fc27.noarch
+ibus-table-chinese-erbi-1.8.2-8.fc27.noarch
+ibus-table-chinese-quick-1.8.2-8.fc27.noarch
+ibus-table-chinese-scj-1.8.2-8.fc27.noarch
+ibus-table-chinese-stroke5-1.8.2-8.fc27.noarch
+ibus-table-chinese-wu-1.8.2-8.fc27.noarch
+ibus-table-chinese-wubi-haifeng-1.8.2-8.fc27.noarch
+ibus-table-chinese-wubi-jidian-1.8.2-8.fc27.noarch
+ibus-table-chinese-yong-1.8.2-8.fc27.noarch
 ibus-typing-booster-1.5.32-3.fc27.noarch
 ibus-wayland-1.5.16-8.fc27.aarch64
 ibutils-1.5.7-25.fc28.aarch64
@@ -1637,6 +1669,8 @@ iptables-devel-1.6.1-4.fc27.aarch64
 iptables-libs-1.6.1-4.fc27.aarch64
 iptables-services-1.6.1-4.fc27.aarch64
 iptables-utils-1.6.1-4.fc27.aarch64
+iptraf-ng-1.1.4-15.fc27.aarch64
+iptstate-2.2.6-4.fc27.aarch64
 iputils-20161105-7.fc27.aarch64
 ipvsadm-1.29-4.fc27.aarch64
 ipxe-bootimgs-20161108-2.gitb991c67.fc26.noarch
@@ -1789,6 +1823,7 @@ ldirectord-4.0.1-1.fc27.3.aarch64
 ldns-1.7.0-8.fc28.aarch64
 ldns-utils-1.7.0-8.fc28.aarch64
 ledmon-0.80-4.fc27.aarch64
+leptonica-1.74.4-3.fc27.aarch64
 less-487-5.fc27.aarch64
 lftp-4.8.0-3.fc27.aarch64
 libICE-1.0.9-11.fc27.aarch64
@@ -1928,6 +1963,7 @@ libdb-devel-5.3.28-26.fc27.aarch64
 libdb-utils-5.3.28-26.fc27.aarch64
 libdbi-0.9.0-9.fc27.aarch64
 libdbi-drivers-0.9.0-8.fc27.aarch64
+libdc1394-2.2.2-9.fc27.aarch64
 libdfu-0.9.8-1.fc27.aarch64
 libdfu-devel-0.9.8-1.fc27.aarch64
 libdhash-0.4.3-33.fc27.aarch64
@@ -1982,11 +2018,13 @@ libgcrypt-1.8.1-1.fc28.aarch64
 libgcrypt-devel-1.8.1-1.fc28.aarch64
 libgdata-0.17.9-1.fc28.aarch64
 libgdata-devel-0.17.9-1.fc28.aarch64
+libgdither-0.6-14.fc27.aarch64
 libgdl-1:3.25.91-1.fc28.aarch64
 libgee-0.20.0-3.fc27.aarch64
 libgee-devel-0.20.0-3.fc27.aarch64
 libgeotiff-1.4.0-11.fc27.aarch64
 libgepub-0.5.2-1.fc27.aarch64
+libgexiv2-0.10.6-3.fc27.aarch64
 libgfortran-7.2.1-2.fc27.aarch64
 libgit2-0.26.0-3.fc27.aarch64
 libgit2-glib-0.26.0-2.fc27.aarch64
@@ -2330,7 +2368,9 @@ libtool-2.4.6-20.fc27.aarch64
 libtool-ltdl-2.4.6-20.fc27.aarch64
 libtool-ltdl-devel-2.4.6-20.fc27.aarch64
 libubsan-7.2.1-2.fc27.aarch64
+libucil-0.9.10-15.fc27.aarch64
 libudisks2-2.7.2-1.fc27.aarch64
+libunicap-0.9.12-20.fc27.aarch64
 libunistring-0.9.7-3.fc27.aarch64
 libunwind-1.2-3.fc27.aarch64
 libunwind-devel-1.2-3.fc27.aarch64
@@ -2922,6 +2962,8 @@ opencryptoki-icsftok-3.7.0-3.fc27.aarch64
 opencryptoki-libs-3.7.0-3.fc27.aarch64
 opencryptoki-swtok-3.7.0-3.fc27.aarch64
 opencryptoki-tpmtok-3.7.0-3.fc27.aarch64
+opencv-contrib-3.2.0-9.fc28.aarch64
+opencv-core-3.2.0-9.fc28.aarch64
 opendnssec-1.4.9-7.fc27.aarch64
 openhpi-3.6.1-8.fc27.aarch64
 openhpi-devel-3.6.1-8.fc27.aarch64
@@ -2995,6 +3037,9 @@ pam_ssh_agent_auth-0.10.3-2.5.fc27.aarch64
 pango-1.40.11-1.fc28.aarch64
 pango-devel-1.40.11-1.fc28.aarch64
 pangomm-2.40.1-4.fc27.aarch64
+paps-0.6.8-39.fc27.aarch64
+paps-devel-0.6.8-39.fc27.aarch64
+paps-libs-0.6.8-39.fc27.aarch64
 paratype-pt-sans-fonts-20141121-5.fc27.noarch
 parted-3.2-28.fc27.aarch64
 passenger-5.0.30-6.fc27.aarch64
@@ -3207,6 +3252,7 @@ perl-Parse-PMFile-0.41-4.fc27.noarch
 perl-Parse-Yapp-1.21-1.fc27.noarch
 perl-PathTools-3.67-395.fc27.aarch64
 perl-Perl-OSType-1.010-395.fc27.noarch
+perl-Perl4-CoreLibs-0.004-1.fc27.noarch
 perl-PerlIO-via-QuotedPrint-0.08-394.fc27.noarch
 perl-Plack-1.0044-3.fc27.noarch
 perl-Plack-Middleware-FixMissingBodyInRedirect-0.12-8.fc27.noarch
@@ -4445,6 +4491,7 @@ telepathy-glib-devel-0.24.1-7.fc27.aarch64
 telepathy-glib-vala-0.24.1-7.fc27.aarch64
 telepathy-logger-0.8.2-6.fc27.aarch64
 telnet-1:0.17-71.fc27.aarch64
+tesseract-3.05.01-3.fc27.aarch64
 tex-fonts-hebrew-0.1-26.fc27.noarch
 texinfo-6.4-5.fc27.aarch64
 texinfo-tex-6.4-5.fc27.aarch64
@@ -4836,6 +4883,19 @@ xmlsec1-1.2.23-4.fc27.aarch64
 xmlsec1-openssl-1.2.23-4.fc27.aarch64
 xmlstreambuffer-1.5.4-6.fc27.noarch
 xorg-sgml-doctools-1.11-5.fc27.noarch
+xorg-x11-docs-1.7.1-6.fc27.noarch
+xorg-x11-drivers-7.7-21.fc27.aarch64
+xorg-x11-drv-ati-7.9.0-3.fc27.aarch64
+xorg-x11-drv-dummy-0.3.7-5.fc27.aarch64
+xorg-x11-drv-evdev-2.10.5-4.fc27.aarch64
+xorg-x11-drv-evdev-devel-2.10.5-4.fc27.aarch64
+xorg-x11-drv-fbdev-0.4.3-28.fc27.aarch64
+xorg-x11-drv-libinput-0.25.1-4.fc27.aarch64
+xorg-x11-drv-libinput-devel-0.25.1-4.fc27.aarch64
+xorg-x11-drv-nouveau-1:1.0.15-3.fc27.aarch64
+xorg-x11-drv-qxl-0.1.5-5.fc27.aarch64
+xorg-x11-drv-v4l-0.2.0-50.fc27.aarch64
+xorg-x11-drv-wacom-0.35.0-3.fc27.aarch64
 xorg-x11-font-utils-1:7.5-35.fc27.aarch64
 xorg-x11-fonts-ISO8859-1-100dpi-7.5-18.fc27.noarch
 xorg-x11-fonts-ISO8859-1-75dpi-7.5-18.fc27.noarch
@@ -4844,6 +4904,7 @@ xorg-x11-fonts-misc-7.5-18.fc27.noarch
 xorg-x11-proto-devel-7.7-23.fc27.noarch
 xorg-x11-server-Xephyr-1.19.3-9.fc28.aarch64
 xorg-x11-server-Xorg-1.19.3-9.fc28.aarch64
+xorg-x11-server-Xspice-0.1.5-5.fc27.aarch64
 xorg-x11-server-Xvfb-1.19.3-9.fc28.aarch64
 xorg-x11-server-Xwayland-1.19.3-9.fc28.aarch64
 xorg-x11-server-common-1.19.3-9.fc28.aarch64

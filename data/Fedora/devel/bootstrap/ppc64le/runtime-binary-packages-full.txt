@@ -9,6 +9,7 @@ ImageMagick-c++-7.0.6.9-4.fc28.ppc64le
 ImageMagick-libs-7.0.6.9-4.fc28.ppc64le
 ImageMagick-perl-7.0.6.9-4.fc28.ppc64le
 Judy-1.0.5-15.fc27.ppc64le
+LibRaw-0.18.2-4.fc27.ppc64le
 ModemManager-1.6.4-4.fc27.ppc64le
 ModemManager-devel-1.6.4-4.fc27.ppc64le
 ModemManager-glib-1.6.4-4.fc27.ppc64le
@@ -438,6 +439,8 @@ container-storage-setup-0.6.0-2.giteb688d4.fc27.noarch
 containernetworking-cni-0.5.2-5.fc27.ppc64le
 control-center-1:3.25.91-1.fc28.ppc64le
 control-center-filesystem-1:3.25.91-1.fc28.ppc64le
+convmv-2.01-2.fc27.noarch
+coolkey-1.1.0-35.fc27.ppc64le
 copy-jdk-configs-2.3-2.fc27.noarch
 coreutils-8.28-1.fc28.ppc64le
 coreutils-common-8.28-1.fc28.ppc64le
@@ -498,6 +501,10 @@ cups-libs-1:2.2.4-3.fc27.ppc64le
 cups-pk-helper-0.2.6-4.fc27.ppc64le
 curl-7.55.1-3.fc28.ppc64le
 custodia-0.5.0-9.fc27.noarch
+cvs-1.11.23-44.fc27.ppc64le
+cvs-contrib-1.11.23-44.fc27.noarch
+cvs-doc-1.11.23-44.fc27.noarch
+cvs-inetd-1.11.23-44.fc27.noarch
 cyrus-imapd-3.0.3-1.fc27.ppc64le
 cyrus-imapd-utils-3.0.3-1.fc27.ppc64le
 cyrus-sasl-2.1.26-34.fc27.ppc64le
@@ -557,9 +564,12 @@ dhcp-devel-doc-12:4.3.6-4.fc27.noarch
 dhcp-libs-12:4.3.6-4.fc27.ppc64le
 dhcp-relay-12:4.3.6-4.fc27.ppc64le
 dhcp-server-12:4.3.6-4.fc27.ppc64le
+dialog-1.3-10.20170509.fc27.ppc64le
+dialog-devel-1.3-10.20170509.fc27.ppc64le
 diffutils-3.6-3.fc27.ppc64le
 dleyna-connector-dbus-0.2.0-10.fc27.ppc64le
 dleyna-core-0.5.0-7.fc27.ppc64le
+dleyna-renderer-0.5.0-8.fc27.ppc64le
 dleyna-server-0.5.0-8.fc27.ppc64le
 dlm-4.0.6-6.fc28.ppc64le
 dlm-devel-4.0.6-6.fc28.ppc64le
@@ -657,6 +667,7 @@ erlang-kernel-19.3.6.2-2.fc27.ppc64le
 erlang-libguestfs-1:1.37.21-2.fc28.ppc64le
 erlang-stdlib-19.3.6.2-2.fc27.ppc64le
 erlang-syntax_tools-19.3.6.2-2.fc27.ppc64le
+esc-1.1.1-1.fc27.ppc64le
 espeak-1.48.04-12.fc27.ppc64le
 etcd-3.1.9-3.fc27.ppc64le
 etcd-devel-3.1.9-3.fc27.noarch
@@ -848,6 +859,9 @@ freetds-libs-1.00.38-4.fc27.ppc64le
 freetype-2.8-5.fc27.ppc64le
 freetype-devel-2.8-5.fc27.ppc64le
 freexl-1.0.3-3.fc27.ppc64le
+frei0r-devel-1.6.1-2.fc27.ppc64le
+frei0r-plugins-1.6.1-2.fc27.ppc64le
+frei0r-plugins-opencv-1.6.1-2.fc27.ppc64le
 fros-1.1-13.fc27.noarch
 ftp-0.17-74.fc27.ppc64le
 fuse-2.9.7-9.fc27.ppc64le
@@ -860,6 +874,7 @@ fwupd-tests-0.9.8-1.fc27.noarch
 fxload-2008_10_13-7.fc27.ppc64le
 galera-25.3.16-6.fc27.ppc64le
 gamin-0.1.10-29.fc28.ppc64le
+gavl-1.4.0-11.fc27.ppc64le
 gawk-4.1.4-5.fc27.ppc64le
 gc-7.6.0-7.fc27.ppc64le
 gcc-7.2.1-2.fc27.ppc64le
@@ -901,6 +916,7 @@ gedit-plugin-zeitgeist-3.22.0-4.fc27.ppc64le
 gedit-plugins-3.22.0-4.fc27.ppc64le
 gedit-plugins-data-3.22.0-4.fc27.ppc64le
 gegl-0.2.0-34.fc27.ppc64le
+gegl03-0.3.20-1.fc28.ppc64le
 genisoimage-1.1.11-37.fc27.ppc64le
 genwqe-tools-4.0.18-4.fc27.ppc64le
 genwqe-vpd-4.0.18-4.fc27.ppc64le
@@ -1091,6 +1107,8 @@ gnome-menus-devel-3.13.3-8.fc27.ppc64le
 gnome-online-accounts-3.26.0-2.fc28.ppc64le
 gnome-online-accounts-devel-3.26.0-2.fc28.ppc64le
 gnome-online-miners-3.25.90-1.fc27.ppc64le
+gnome-photos-3.25.91-1.fc28.ppc64le
+gnome-photos-tests-3.25.91-1.fc28.ppc64le
 gnome-python2-2.28.1-21.fc27.ppc64le
 gnome-python2-bonobo-2.28.1-21.fc27.ppc64le
 gnome-python2-canvas-2.28.1-21.fc27.ppc64le
@@ -1127,6 +1145,7 @@ gnome-tweak-tool-3.25.91-1.fc28.noarch
 gnome-user-docs-3.25.90-1.fc27.noarch
 gnome-vfs2-2.24.4-25.fc27.ppc64le
 gnome-vfs2-common-2.24.4-25.fc27.noarch
+gnome-video-effects-0.4.3-2.fc27.noarch
 gnome-weather-3.24.0-2.fc27.noarch
 gnome-weather-tests-3.24.0-2.fc27.noarch
 gnu-free-fonts-common-20120503-15.fc27.noarch
@@ -1241,6 +1260,7 @@ google-crosextra-caladea-fonts-1.002-0.9.20130214.fc27.noarch
 google-crosextra-carlito-fonts-1.103-0.7.20130920.fc27.noarch
 google-guice-4.1-7.fc27.noarch
 google-noto-cjk-fonts-20170602-2.fc27.noarch
+google-noto-emoji-fonts-20170608-2.fc27.noarch
 google-noto-fonts-common-20161022-4.fc27.noarch
 google-noto-sans-lisu-fonts-20161022-4.fc27.noarch
 google-noto-sans-mandaic-fonts-20161022-4.fc27.noarch
@@ -1398,6 +1418,7 @@ hunspell-cv-1.02-12.fc27.noarch
 hunspell-cy-0.20040425-16.fc27.noarch
 hunspell-da-1.7.42-8.fc27.noarch
 hunspell-de-0.20160407-3.fc27.noarch
+hunspell-devel-1.5.4-4.fc27.ppc64le
 hunspell-dsb-1.4.6-10.fc27.noarch
 hunspell-el-1:0.8-13.fc27.noarch
 hunspell-en-0.20140811.1-9.fc27.noarch
@@ -1578,8 +1599,22 @@ ibus-libzhuyin-1.8.0-1.fc28.ppc64le
 ibus-m17n-1.3.4-24.fc27.ppc64le
 ibus-qt-1.3.3-15.fc27.ppc64le
 ibus-rawcode-1.3.2-11.fc27.ppc64le
+ibus-sayura-1.3.2-12.fc27.ppc64le
 ibus-setup-1.5.16-8.fc27.noarch
 ibus-table-1.9.18-1.fc27.noarch
+ibus-table-chinese-1.8.2-8.fc27.noarch
+ibus-table-chinese-array-1.8.2-8.fc27.noarch
+ibus-table-chinese-cangjie-1.8.2-8.fc27.noarch
+ibus-table-chinese-cantonese-1.8.2-8.fc27.noarch
+ibus-table-chinese-easy-1.8.2-8.fc27.noarch
+ibus-table-chinese-erbi-1.8.2-8.fc27.noarch
+ibus-table-chinese-quick-1.8.2-8.fc27.noarch
+ibus-table-chinese-scj-1.8.2-8.fc27.noarch
+ibus-table-chinese-stroke5-1.8.2-8.fc27.noarch
+ibus-table-chinese-wu-1.8.2-8.fc27.noarch
+ibus-table-chinese-wubi-haifeng-1.8.2-8.fc27.noarch
+ibus-table-chinese-wubi-jidian-1.8.2-8.fc27.noarch
+ibus-table-chinese-yong-1.8.2-8.fc27.noarch
 ibus-typing-booster-1.5.32-3.fc27.noarch
 ibus-wayland-1.5.16-8.fc27.ppc64le
 ibutils-1.5.7-25.fc28.ppc64le
@@ -1623,6 +1658,8 @@ iptables-devel-1.6.1-4.fc27.ppc64le
 iptables-libs-1.6.1-4.fc27.ppc64le
 iptables-services-1.6.1-4.fc27.ppc64le
 iptables-utils-1.6.1-4.fc27.ppc64le
+iptraf-ng-1.1.4-15.fc27.ppc64le
+iptstate-2.2.6-4.fc27.ppc64le
 iputils-20161105-7.fc27.ppc64le
 ipvsadm-1.29-4.fc27.ppc64le
 ipxe-bootimgs-20161108-2.gitb991c67.fc26.noarch
@@ -1776,11 +1813,13 @@ ldirectord-4.0.1-1.fc27.3.ppc64le
 ldns-1.7.0-8.fc28.ppc64le
 ldns-utils-1.7.0-8.fc28.ppc64le
 ledmon-0.80-4.fc27.ppc64le
+leptonica-1.74.4-3.fc27.ppc64le
 less-487-5.fc27.ppc64le
 lftp-4.8.0-3.fc27.ppc64le
 libICE-1.0.9-11.fc27.ppc64le
 libICE-devel-1.0.9-11.fc27.ppc64le
 libIDL-0.8.14-14.fc27.ppc64le
+libIDL-devel-0.8.14-14.fc27.ppc64le
 libSM-1.2.2-7.fc27.ppc64le
 libSM-devel-1.2.2-7.fc27.ppc64le
 libX11-1.6.5-4.fc27.ppc64le
@@ -1916,6 +1955,7 @@ libdb-devel-5.3.28-26.fc27.ppc64le
 libdb-utils-5.3.28-26.fc27.ppc64le
 libdbi-0.9.0-9.fc27.ppc64le
 libdbi-drivers-0.9.0-8.fc27.ppc64le
+libdc1394-2.2.2-9.fc27.ppc64le
 libdfu-0.9.8-1.fc27.ppc64le
 libdfu-devel-0.9.8-1.fc27.ppc64le
 libdhash-0.4.3-33.fc27.ppc64le
@@ -1970,11 +2010,13 @@ libgcrypt-1.8.1-1.fc28.ppc64le
 libgcrypt-devel-1.8.1-1.fc28.ppc64le
 libgdata-0.17.9-1.fc28.ppc64le
 libgdata-devel-0.17.9-1.fc28.ppc64le
+libgdither-0.6-14.fc27.ppc64le
 libgdl-1:3.25.91-1.fc28.ppc64le
 libgee-0.20.0-3.fc27.ppc64le
 libgee-devel-0.20.0-3.fc27.ppc64le
 libgeotiff-1.4.0-11.fc27.ppc64le
 libgepub-0.5.2-1.fc27.ppc64le
+libgexiv2-0.10.6-3.fc27.ppc64le
 libgfortran-7.2.1-2.fc27.ppc64le
 libgit2-0.26.0-3.fc27.ppc64le
 libgit2-glib-0.26.0-2.fc27.ppc64le
@@ -2128,6 +2170,7 @@ libnl3-cli-3.3.0-4.fc28.ppc64le
 libnm-gtk-1.8.2-3.fc28.ppc64le
 libnma-1.8.2-3.fc28.ppc64le
 libnotify-0.7.7-4.fc27.ppc64le
+libnotify-devel-0.7.7-4.fc27.ppc64le
 libnsl2-1.0.5-3.fc27.ppc64le
 liboauth-1.0.3-8.fc27.ppc64le
 liboauth-devel-1.0.3-8.fc27.ppc64le
@@ -2322,7 +2365,9 @@ libtool-2.4.6-20.fc27.ppc64le
 libtool-ltdl-2.4.6-20.fc27.ppc64le
 libtool-ltdl-devel-2.4.6-20.fc27.ppc64le
 libubsan-7.2.1-2.fc27.ppc64le
+libucil-0.9.10-15.fc27.ppc64le
 libudisks2-2.7.2-1.fc27.ppc64le
+libunicap-0.9.12-20.fc27.ppc64le
 libunistring-0.9.7-3.fc27.ppc64le
 libunwind-1.2-3.fc27.ppc64le
 libunwind-devel-1.2-3.fc27.ppc64le
@@ -2398,6 +2443,7 @@ libvorbis-1:1.3.5-4.fc27.ppc64le
 libvpd-2.2.5-7.fc27.ppc64le
 libvpd-devel-2.2.5-7.fc27.ppc64le
 libvpx-1.6.1-4.fc27.ppc64le
+libvpx-devel-1.6.1-4.fc27.ppc64le
 libwacom-0.26-1.fc28.ppc64le
 libwacom-data-0.26-1.fc28.noarch
 libwayland-client-1.14.0-1.fc27.ppc64le
@@ -2917,6 +2963,8 @@ opencryptoki-icsftok-3.7.0-3.fc27.ppc64le
 opencryptoki-libs-3.7.0-3.fc27.ppc64le
 opencryptoki-swtok-3.7.0-3.fc27.ppc64le
 opencryptoki-tpmtok-3.7.0-3.fc27.ppc64le
+opencv-contrib-3.2.0-9.fc28.ppc64le
+opencv-core-3.2.0-9.fc28.ppc64le
 opendnssec-1.4.9-7.fc27.ppc64le
 openhpi-3.6.1-8.fc27.ppc64le
 openhpi-devel-3.6.1-8.fc27.ppc64le
@@ -2990,6 +3038,9 @@ pam_ssh_agent_auth-0.10.3-2.5.fc27.ppc64le
 pango-1.40.11-1.fc28.ppc64le
 pango-devel-1.40.11-1.fc28.ppc64le
 pangomm-2.40.1-4.fc27.ppc64le
+paps-0.6.8-39.fc27.ppc64le
+paps-devel-0.6.8-39.fc27.ppc64le
+paps-libs-0.6.8-39.fc27.ppc64le
 paratype-pt-sans-fonts-20141121-5.fc27.noarch
 parted-3.2-28.fc27.ppc64le
 passenger-5.0.30-6.fc27.ppc64le
@@ -3202,6 +3253,7 @@ perl-Parse-PMFile-0.41-4.fc27.noarch
 perl-Parse-Yapp-1.21-1.fc27.noarch
 perl-PathTools-3.67-395.fc27.ppc64le
 perl-Perl-OSType-1.010-395.fc27.noarch
+perl-Perl4-CoreLibs-0.004-1.fc27.noarch
 perl-PerlIO-via-QuotedPrint-0.08-394.fc27.noarch
 perl-Plack-1.0044-3.fc27.noarch
 perl-Plack-Middleware-FixMissingBodyInRedirect-0.12-8.fc27.noarch
@@ -4369,6 +4421,7 @@ sssd-proxy-1.15.3-2.fc27.ppc64le
 sssd-tools-1.15.3-2.fc27.ppc64le
 sssd-winbind-idmap-1.15.3-2.fc27.ppc64le
 startup-notification-0.12-14.fc27.ppc64le
+startup-notification-devel-0.12-14.fc27.ppc64le
 stax-ex-1.7.7-7.fc27.noarch
 stax2-api-4.0.0-3.fc27.noarch
 stix-fonts-1.1.0-11.fc27.noarch
@@ -4442,6 +4495,7 @@ telepathy-glib-devel-0.24.1-7.fc27.ppc64le
 telepathy-glib-vala-0.24.1-7.fc27.ppc64le
 telepathy-logger-0.8.2-6.fc27.ppc64le
 telnet-1:0.17-71.fc27.ppc64le
+tesseract-3.05.01-3.fc27.ppc64le
 tex-fonts-hebrew-0.1-26.fc27.noarch
 texinfo-6.4-5.fc27.ppc64le
 texinfo-tex-6.4-5.fc27.ppc64le
@@ -4833,6 +4887,19 @@ xmlsec1-1.2.23-4.fc27.ppc64le
 xmlsec1-openssl-1.2.23-4.fc27.ppc64le
 xmlstreambuffer-1.5.4-6.fc27.noarch
 xorg-sgml-doctools-1.11-5.fc27.noarch
+xorg-x11-docs-1.7.1-6.fc27.noarch
+xorg-x11-drivers-7.7-21.fc27.ppc64le
+xorg-x11-drv-ati-7.9.0-3.fc27.ppc64le
+xorg-x11-drv-dummy-0.3.7-5.fc27.ppc64le
+xorg-x11-drv-evdev-2.10.5-4.fc27.ppc64le
+xorg-x11-drv-evdev-devel-2.10.5-4.fc27.ppc64le
+xorg-x11-drv-fbdev-0.4.3-28.fc27.ppc64le
+xorg-x11-drv-libinput-0.25.1-4.fc27.ppc64le
+xorg-x11-drv-libinput-devel-0.25.1-4.fc27.ppc64le
+xorg-x11-drv-nouveau-1:1.0.15-3.fc27.ppc64le
+xorg-x11-drv-qxl-0.1.5-5.fc27.ppc64le
+xorg-x11-drv-v4l-0.2.0-50.fc27.ppc64le
+xorg-x11-drv-wacom-0.35.0-3.fc27.ppc64le
 xorg-x11-font-utils-1:7.5-35.fc27.ppc64le
 xorg-x11-fonts-ISO8859-1-100dpi-7.5-18.fc27.noarch
 xorg-x11-fonts-ISO8859-1-75dpi-7.5-18.fc27.noarch
