@@ -184,8 +184,8 @@ libattr-2.4.47-21.fc27.s390x
 libbabeltrace-1.5.3-1.fc27.s390x
 libbasicobjects-0.1.1-33.fc27.s390x
 libblkid-2.30.2-1.fc28.s390x
-libblockdev-2.11-1.fc27.s390x
-libblockdev-utils-2.11-1.fc27.s390x
+libblockdev-2.12-3.fc28.s390x
+libblockdev-utils-2.12-3.fc28.s390x
 libcap-2.25-7.fc27.s390x
 libcap-ng-0.7.8-7.fc28.s390x
 libcgroup-0.41-13.fc27.s390x

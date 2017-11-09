@@ -196,8 +196,8 @@ libattr-2.4.47-21.fc27.ppc64
 libbabeltrace-1.5.3-1.fc27.ppc64
 libbasicobjects-0.1.1-33.fc27.ppc64
 libblkid-2.30.2-1.fc28.ppc64
-libblockdev-2.11-1.fc27.ppc64
-libblockdev-utils-2.11-1.fc27.ppc64
+libblockdev-2.12-3.fc28.ppc64
+libblockdev-utils-2.12-3.fc28.ppc64
 libcap-2.25-7.fc27.ppc64
 libcap-ng-0.7.8-7.fc28.ppc64
 libcgroup-0.41-13.fc27.ppc64

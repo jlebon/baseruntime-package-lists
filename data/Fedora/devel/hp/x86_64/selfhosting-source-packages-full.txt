@@ -959,7 +959,7 @@ libasyncns-0.8-13.fc27.src
 libatasmart-0.19-12.fc27.src
 libatomic_ops-7.4.6-3.fc27.src
 libavc1394-0.5.4-5.fc27.src
-libblockdev-2.11-1.fc27.src
+libblockdev-2.12-3.fc28.src
 libbluray-1.0.1-1.fc27.src
 libbonobo-2.32.1-13.fc27.src
 libbonoboui-2.24.5-13.fc27.src

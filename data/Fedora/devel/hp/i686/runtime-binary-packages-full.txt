@@ -202,8 +202,8 @@ libattr-2.4.47-21.fc27.i686
 libbabeltrace-1.5.3-1.fc27.i686
 libbasicobjects-0.1.1-33.fc27.i686
 libblkid-2.30.2-1.fc28.i686
-libblockdev-2.11-1.fc27.i686
-libblockdev-utils-2.11-1.fc27.i686
+libblockdev-2.12-3.fc28.i686
+libblockdev-utils-2.12-3.fc28.i686
 libcap-2.25-7.fc27.i686
 libcap-ng-0.7.8-7.fc28.i686
 libcgroup-0.41-13.fc27.i686
