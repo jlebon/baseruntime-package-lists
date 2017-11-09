@@ -249,6 +249,8 @@ bind99-license
 binutils
 biosdevname
 bison
+bison-devel
+bison-runtime
 bitmap-console-fonts
 bitmap-fangsongti-fonts
 bitmap-fixed-fonts

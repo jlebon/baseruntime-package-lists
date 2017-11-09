@@ -558,6 +558,7 @@ binutils-x86_64-linux-gnu
 binutils-xtensa-linux-gnu
 bison
 bison-devel
+bison-runtime
 bitmap-console-fonts
 bitmap-fangsongti-fonts
 bitmap-fixed-fonts

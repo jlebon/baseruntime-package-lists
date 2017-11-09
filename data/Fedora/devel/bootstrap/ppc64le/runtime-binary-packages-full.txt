@@ -247,6 +247,8 @@ bind99-libs-9.9.10-1.P3.fc27.ppc64le
 bind99-license-9.9.10-1.P3.fc27.noarch
 binutils-2.29-9.fc28.ppc64le
 bison-3.0.4-8.fc27.ppc64le
+bison-devel-3.0.4-8.fc27.ppc64le
+bison-runtime-3.0.4-8.fc27.ppc64le
 bitmap-console-fonts-0.3-26.fc27.noarch
 bitmap-fangsongti-fonts-0.3-26.fc27.noarch
 bitmap-fixed-fonts-0.3-26.fc27.noarch

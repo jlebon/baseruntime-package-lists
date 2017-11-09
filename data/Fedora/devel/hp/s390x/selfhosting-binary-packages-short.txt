@@ -393,6 +393,7 @@ binutils-x86_64-linux-gnu
 binutils-xtensa-linux-gnu
 bison
 bison-devel
+bison-runtime
 bitstream-vera-fonts-common
 bitstream-vera-sans-fonts
 blas

@@ -563,6 +563,7 @@ binutils-xtensa-linux-gnu-2.29-3.fc27.x86_64
 biosdevname-0.6.2-5.fc27.x86_64
 bison-3.0.4-8.fc27.x86_64
 bison-devel-3.0.4-8.fc27.x86_64
+bison-runtime-3.0.4-8.fc27.x86_64
 bitmap-console-fonts-0.3-26.fc27.noarch
 bitmap-fangsongti-fonts-0.3-26.fc27.noarch
 bitmap-fixed-fonts-0.3-26.fc27.noarch

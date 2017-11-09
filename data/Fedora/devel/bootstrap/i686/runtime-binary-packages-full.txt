@@ -249,6 +249,8 @@ bind99-license-9.9.10-1.P3.fc27.noarch
 binutils-2.29-9.fc28.i686
 biosdevname-0.6.2-5.fc27.i686
 bison-3.0.4-8.fc27.i686
+bison-devel-3.0.4-8.fc27.i686
+bison-runtime-3.0.4-8.fc27.i686
 bitmap-console-fonts-0.3-26.fc27.noarch
 bitmap-fangsongti-fonts-0.3-26.fc27.noarch
 bitmap-fixed-fonts-0.3-26.fc27.noarch

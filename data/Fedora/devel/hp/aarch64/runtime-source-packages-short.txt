@@ -12,6 +12,7 @@ bash
 bc
 bind99
 binutils
+bison
 bluez
 btrfs-progs
 byacc

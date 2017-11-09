@@ -247,6 +247,8 @@ bind99-libs
 bind99-license
 binutils
 bison
+bison-devel
+bison-runtime
 bitmap-console-fonts
 bitmap-fangsongti-fonts
 bitmap-fixed-fonts

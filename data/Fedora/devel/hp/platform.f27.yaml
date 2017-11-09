@@ -132,6 +132,15 @@ data:
                 rationale: >-
                     Binary utilities.
                 ref: f9311f0bfc70d61b57aca4e99fb9ac34993ea859
+            # bison-3.0.4-8.fc27
+            bison:
+                rationale: >-
+                    GNU general purpose parser generator; allow developers
+                    to build against bison; provide
+                    runtime environment for
+                    applications using bison-generated
+                    parsers.
+                ref: 716b8b181fda674e6ad2b3c0662e5b3e16d4a6f3
             # bluez-5.46-3.fc27
             bluez:
                 rationale: >-

@@ -560,6 +560,7 @@ binutils-xtensa-linux-gnu
 biosdevname
 bison
 bison-devel
+bison-runtime
 bitmap-console-fonts
 bitmap-fangsongti-fonts
 bitmap-fixed-fonts
