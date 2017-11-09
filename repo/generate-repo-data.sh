@@ -29,8 +29,8 @@ fi
 
 # Generate or update all of the repodata
 for arch in "aarch64" "armv7hl" "i686" "ppc64" "ppc64le" "s390x" "x86_64"; do
-    createrepo_c $dest/override/$arch/sources
-    createrepo_c $dest/override/$arch/os
+    createrepo_c --update $dest/override/$arch/sources
+    createrepo_c --update $dest/override/$arch/os
 done
 
 # Set the group ownership to the modularity-wg group
