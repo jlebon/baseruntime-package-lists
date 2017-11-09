@@ -30,6 +30,7 @@ SDL
 SDL2
 SDL2_mixer
 SDL_sound
+SFML
 SLOF
 SuperLU
 WALinuxAgent
@@ -277,6 +278,7 @@ cdrdao
 cdrkit
 celt051
 ceph
+ceres-solver
 certmonger
 cfitsio
 cgdcbxd
@@ -343,8 +345,10 @@ console-setup
 container-selinux
 container-storage-setup
 control-center
+convmv
 cookcc
 cookxml
+coolkey
 copy-jdk-configs
 coreutils
 coro-mock
@@ -379,6 +383,7 @@ curator
 curl
 curvesapi
 custodia
+cvs
 cxf
 cxf-build-utils
 cxf-xjc-utils
@@ -408,6 +413,7 @@ devhelp
 device-mapper-multipath
 device-mapper-persistent-data
 dhcp
+dialog
 dietlibc
 diffstat
 diffutils
@@ -417,6 +423,7 @@ disruptor
 djvulibre
 dleyna-connector-dbus
 dleyna-core
+dleyna-renderer
 dleyna-server
 dlm
 dmidecode
@@ -494,6 +501,7 @@ eglexternalplatform
 ehcache-core
 ehcache-parent
 ehcache-sizeof-agent
+eigen3
 elfutils
 elinks
 emacs
@@ -524,6 +532,7 @@ erlang-protobuffs
 erlang-rebar
 erlang-rpm-macros
 erlang-sd_notify
+esc
 esound
 espeak
 etcd
@@ -629,6 +638,7 @@ freerdp1.2
 freetds
 freetype
 freexl
+frei0r-plugins
 fribidi
 fros
 ftgl
@@ -641,6 +651,7 @@ g2clib
 galera
 game-music-emu
 gamin
+gavl
 gawk
 gc
 gcab
@@ -656,6 +667,7 @@ gdm
 gedit
 gedit-plugins
 gegl
+gegl03
 gemini-blueprint
 generatorrunner
 genwqe-tools
@@ -680,6 +692,7 @@ geronimo-saaj
 geronimo-validation
 gettext
 gfbgraph
+gflags
 gfs2-utils
 ghc
 ghc-Diff
@@ -801,6 +814,7 @@ glib2
 glibc
 glibmm24
 glm
+glog
 glpk
 glusterfs
 gmavenplus-plugin
@@ -835,6 +849,7 @@ gnome-logs
 gnome-menus
 gnome-online-accounts
 gnome-online-miners
+gnome-photos
 gnome-python2
 gnome-screenshot
 gnome-session
@@ -848,6 +863,7 @@ gnome-themes-standard
 gnome-tweak-tool
 gnome-user-docs
 gnome-vfs2
+gnome-video-effects
 gnome-weather
 gnu-efi
 gnu-free-fonts
@@ -969,6 +985,7 @@ google-crosextra-carlito-fonts
 google-gson
 google-guice
 google-noto-cjk-fonts
+google-noto-emoji-fonts
 google-noto-fonts
 google-roboto-slab-fonts
 gpars
@@ -1016,6 +1033,7 @@ gtk-sharp2
 gtk-vnc
 gtk2
 gtk3
+gtkglext
 gtkmm24
 gtkmm30
 gtksourceview3
@@ -1269,7 +1287,9 @@ ibus-libzhuyin
 ibus-m17n
 ibus-qt
 ibus-rawcode
+ibus-sayura
 ibus-table
+ibus-table-chinese
 ibus-typing-booster
 ibutils
 icc-profiles-openicc
@@ -1303,6 +1323,8 @@ iproute
 iprutils
 ipset
 iptables
+iptraf-ng
+iptstate
 iputils
 ipvsadm
 ipxe
@@ -1580,6 +1602,7 @@ ldaptive
 ldns
 ledmon
 lensfun
+leptonica
 less
 lettuce
 leveldb
@@ -1669,6 +1692,7 @@ libdb
 libdb4
 libdbi
 libdbi-drivers
+libdc1394
 libdmapsharing
 libdmx
 libdnet
@@ -1708,10 +1732,12 @@ libgadu
 libgcrypt
 libgdata
 libgdiplus
+libgdither
 libgdl
 libgee
 libgeotiff
 libgepub
+libgexiv2
 libgit2
 libgit2-glib
 libglade2
@@ -1888,6 +1914,8 @@ libtirpc
 libtomcrypt
 libtommath
 libtool
+libucil
+libunicap
 libuninameslist
 libunistring
 libunwind
@@ -2117,6 +2145,7 @@ meson
 metacity
 metadata-extractor2
 metainf-services
+metis
 metrics
 metrics-reporter-config
 mftrace
@@ -2640,7 +2669,9 @@ openbox
 opencc
 openchange
 opencl-filesystem
+opencl-headers
 opencryptoki
+opencv
 opendbx
 opendnssec
 openhpi
@@ -2650,6 +2681,8 @@ openjpeg
 openjpeg2
 openldap
 openmpi
+openni
+openni-primesense
 opennlp
 openoffice-lv
 openoffice.org-dict-cs_CZ
@@ -2693,12 +2726,15 @@ pandoc
 pandoc-citeproc
 pango
 pangomm
+pangox-compat
 papi
+paps
 paranamer
 paratype-pt-sans-fonts
 parboiled
 parted
 passenger
+passivetex
 passwd
 patch
 patchutils
@@ -3256,6 +3292,7 @@ perl-Perl-MinimumVersion
 perl-Perl-OSType
 perl-Perl-PrereqScanner
 perl-Perl-Version
+perl-Perl4-CoreLibs
 perl-PerlIO-utf8_strict
 perl-PerlIO-via-QuotedPrint
 perl-Plack
@@ -3622,6 +3659,7 @@ plexus-velocity
 plotutils
 plymouth
 pmix
+pngquant
 pnm2ppa
 po4a
 policycoreutils
@@ -4283,6 +4321,7 @@ schroedinger
 scipy
 scl-utils
 scons
+scotch
 screen
 scrub
 seabios
@@ -4445,6 +4484,7 @@ telepathy-glib
 telepathy-logger
 telnet
 tesla-polyglot
+tesseract
 test-interface
 testng
 tex-fonts-hebrew
@@ -4465,6 +4505,7 @@ tiles
 time
 timedatex
 tinycdb
+tinyxml
 tix
 tk
 tmpwatch
@@ -4659,7 +4700,21 @@ xnio
 xom
 xorg-sgml-doctools
 xorg-x11-apps
+xorg-x11-docs
+xorg-x11-drivers
+xorg-x11-drv-ati
 xorg-x11-drv-dummy
+xorg-x11-drv-evdev
+xorg-x11-drv-fbdev
+xorg-x11-drv-geode
+xorg-x11-drv-intel
+xorg-x11-drv-libinput
+xorg-x11-drv-nouveau
+xorg-x11-drv-openchrome
+xorg-x11-drv-qxl
+xorg-x11-drv-v4l
+xorg-x11-drv-vesa
+xorg-x11-drv-vmware
 xorg-x11-drv-wacom
 xorg-x11-font-utils
 xorg-x11-fonts

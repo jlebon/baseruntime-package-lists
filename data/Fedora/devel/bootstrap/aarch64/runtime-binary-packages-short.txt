@@ -9,6 +9,7 @@ ImageMagick-c++
 ImageMagick-libs
 ImageMagick-perl
 Judy
+LibRaw
 ModemManager
 ModemManager-devel
 ModemManager-glib
@@ -439,6 +440,7 @@ container-storage-setup
 containernetworking-cni
 control-center
 control-center-filesystem
+convmv
 copy-jdk-configs
 coreutils
 coreutils-common
@@ -499,6 +501,10 @@ cups-libs
 cups-pk-helper
 curl
 custodia
+cvs
+cvs-contrib
+cvs-doc
+cvs-inetd
 cyrus-imapd
 cyrus-imapd-utils
 cyrus-sasl
@@ -559,9 +565,12 @@ dhcp-devel-doc
 dhcp-libs
 dhcp-relay
 dhcp-server
+dialog
+dialog-devel
 diffutils
 dleyna-connector-dbus
 dleyna-core
+dleyna-renderer
 dleyna-server
 dlm
 dlm-devel
@@ -857,6 +866,9 @@ freetds-libs
 freetype
 freetype-devel
 freexl
+frei0r-devel
+frei0r-plugins
+frei0r-plugins-opencv
 fros
 ftp
 fuse
@@ -873,6 +885,7 @@ fwupdate-libs
 fxload
 galera
 gamin
+gavl
 gawk
 gc
 gcc
@@ -914,6 +927,7 @@ gedit-plugin-zeitgeist
 gedit-plugins
 gedit-plugins-data
 gegl
+gegl03
 genisoimage
 genwqe-tools
 genwqe-vpd
@@ -1104,6 +1118,8 @@ gnome-menus-devel
 gnome-online-accounts
 gnome-online-accounts-devel
 gnome-online-miners
+gnome-photos
+gnome-photos-tests
 gnome-python2
 gnome-python2-bonobo
 gnome-python2-canvas
@@ -1140,6 +1156,7 @@ gnome-tweak-tool
 gnome-user-docs
 gnome-vfs2
 gnome-vfs2-common
+gnome-video-effects
 gnome-weather
 gnome-weather-tests
 gnu-free-fonts-common
@@ -1254,6 +1271,7 @@ google-crosextra-caladea-fonts
 google-crosextra-carlito-fonts
 google-guice
 google-noto-cjk-fonts
+google-noto-emoji-fonts
 google-noto-fonts-common
 google-noto-sans-lisu-fonts
 google-noto-sans-mandaic-fonts
@@ -1592,8 +1610,22 @@ ibus-libzhuyin
 ibus-m17n
 ibus-qt
 ibus-rawcode
+ibus-sayura
 ibus-setup
 ibus-table
+ibus-table-chinese
+ibus-table-chinese-array
+ibus-table-chinese-cangjie
+ibus-table-chinese-cantonese
+ibus-table-chinese-easy
+ibus-table-chinese-erbi
+ibus-table-chinese-quick
+ibus-table-chinese-scj
+ibus-table-chinese-stroke5
+ibus-table-chinese-wu
+ibus-table-chinese-wubi-haifeng
+ibus-table-chinese-wubi-jidian
+ibus-table-chinese-yong
 ibus-typing-booster
 ibus-wayland
 ibutils
@@ -1637,6 +1669,8 @@ iptables-devel
 iptables-libs
 iptables-services
 iptables-utils
+iptraf-ng
+iptstate
 iputils
 ipvsadm
 ipxe-bootimgs
@@ -1789,6 +1823,7 @@ ldirectord
 ldns
 ldns-utils
 ledmon
+leptonica
 less
 lftp
 libICE
@@ -1928,6 +1963,7 @@ libdb-devel
 libdb-utils
 libdbi
 libdbi-drivers
+libdc1394
 libdfu
 libdfu-devel
 libdhash
@@ -1982,11 +2018,13 @@ libgcrypt
 libgcrypt-devel
 libgdata
 libgdata-devel
+libgdither
 libgdl
 libgee
 libgee-devel
 libgeotiff
 libgepub
+libgexiv2
 libgfortran
 libgit2
 libgit2-glib
@@ -2330,7 +2368,9 @@ libtool
 libtool-ltdl
 libtool-ltdl-devel
 libubsan
+libucil
 libudisks2
+libunicap
 libunistring
 libunwind
 libunwind-devel
@@ -2922,6 +2962,8 @@ opencryptoki-icsftok
 opencryptoki-libs
 opencryptoki-swtok
 opencryptoki-tpmtok
+opencv-contrib
+opencv-core
 opendnssec
 openhpi
 openhpi-devel
@@ -2995,6 +3037,9 @@ pam_ssh_agent_auth
 pango
 pango-devel
 pangomm
+paps
+paps-devel
+paps-libs
 paratype-pt-sans-fonts
 parted
 passenger
@@ -3207,6 +3252,7 @@ perl-Parse-PMFile
 perl-Parse-Yapp
 perl-PathTools
 perl-Perl-OSType
+perl-Perl4-CoreLibs
 perl-PerlIO-via-QuotedPrint
 perl-Plack
 perl-Plack-Middleware-FixMissingBodyInRedirect
@@ -4445,6 +4491,7 @@ telepathy-glib-devel
 telepathy-glib-vala
 telepathy-logger
 telnet
+tesseract
 tex-fonts-hebrew
 texinfo
 texinfo-tex
@@ -4836,6 +4883,19 @@ xmlsec1
 xmlsec1-openssl
 xmlstreambuffer
 xorg-sgml-doctools
+xorg-x11-docs
+xorg-x11-drivers
+xorg-x11-drv-ati
+xorg-x11-drv-dummy
+xorg-x11-drv-evdev
+xorg-x11-drv-evdev-devel
+xorg-x11-drv-fbdev
+xorg-x11-drv-libinput
+xorg-x11-drv-libinput-devel
+xorg-x11-drv-nouveau
+xorg-x11-drv-qxl
+xorg-x11-drv-v4l
+xorg-x11-drv-wacom
 xorg-x11-font-utils
 xorg-x11-fonts-ISO8859-1-100dpi
 xorg-x11-fonts-ISO8859-1-75dpi
@@ -4844,6 +4904,7 @@ xorg-x11-fonts-misc
 xorg-x11-proto-devel
 xorg-x11-server-Xephyr
 xorg-x11-server-Xorg
+xorg-x11-server-Xspice
 xorg-x11-server-Xvfb
 xorg-x11-server-Xwayland
 xorg-x11-server-common
