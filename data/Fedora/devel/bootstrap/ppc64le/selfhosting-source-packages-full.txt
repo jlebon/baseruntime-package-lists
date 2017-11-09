@@ -180,7 +180,7 @@ auto-1.1-5.fc27.src
 autoconf-2.69-26.fc28.src
 autoconf-archive-2017.03.21-2.fc27.src
 autoconf213-2.13-38.fc27.src
-autofs-1:5.1.3-4.fc27.src
+autofs-1:5.1.3-5.fc28.src
 autogen-5.18.12-5.fc27.src
 automake-1.15.1-3.fc28.src
 automoc-1.0-0.29.rc3.fc27.src
