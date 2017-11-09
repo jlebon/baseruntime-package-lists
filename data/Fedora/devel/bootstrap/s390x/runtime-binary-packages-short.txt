@@ -122,6 +122,7 @@ amanda-server
 amtterm
 anaconda
 anaconda-core
+anaconda-dracut
 anaconda-gui
 anaconda-tui
 anaconda-user-help
@@ -183,6 +184,7 @@ atlas-z10-static
 atlas-z196
 atlas-z196-devel
 atlas-z196-static
+atmel-firmware
 atomic
 atomic-registries
 attica
@@ -237,6 +239,7 @@ bc
 bcache-tools
 bea-stax-api
 bean-validation-api
+bfa-firmware
 bind
 bind-chroot
 bind-dyndb-ldap
@@ -590,6 +593,7 @@ dnssec-trigger-panel
 docbook-dtds
 docbook-style-xsl
 docker
+docker-anaconda-addon
 docker-common
 docker-distribution
 docker-latest
@@ -611,6 +615,7 @@ dracut-caps
 dracut-config-generic
 dracut-config-rescue
 dracut-fips
+dracut-live
 dracut-network
 dracut-tools
 driverctl
@@ -820,6 +825,7 @@ foomatic
 foomatic-db
 foomatic-db-filesystem
 foomatic-db-ppds
+fpaste
 fpc-srpm-macros
 freeipa-client
 freeipa-client-common
@@ -870,6 +876,8 @@ gcr-devel
 gd
 gdal-libs
 gdal-python3
+gdb
+gdb-gdbserver
 gdb-headless
 gdbm
 gdisk
@@ -1032,6 +1040,7 @@ glib-networking
 glib2
 glib2-devel
 glibc
+glibc-all-langpacks
 glibc-common
 glibc-devel
 glibc-headers
@@ -1268,6 +1277,7 @@ grilo-plugins
 groff-base
 groff-perl
 groovy-lib
+grubby
 gsettings-desktop-schemas
 gsettings-desktop-schemas-devel
 gsl
@@ -1592,6 +1602,7 @@ icedax
 icedtea-web
 icedtea-web-devel
 icedtea-web-javadoc
+icfg
 icoutils
 icu
 iio-sensor-proxy
@@ -1629,6 +1640,8 @@ iptraf-ng
 iptstate
 iputils
 ipvsadm
+ipw2100-firmware
+ipw2200-firmware
 ipxe-bootimgs
 ipxe-roms
 ipxe-roms-qemu
@@ -1646,6 +1659,22 @@ isomd5sum
 istack-commons-runtime
 ivshmem-tools
 iw
+iwl100-firmware
+iwl1000-firmware
+iwl105-firmware
+iwl135-firmware
+iwl2000-firmware
+iwl2030-firmware
+iwl3160-firmware
+iwl3945-firmware
+iwl4965-firmware
+iwl5000-firmware
+iwl5150-firmware
+iwl6000-firmware
+iwl6000g2a-firmware
+iwl6000g2b-firmware
+iwl6050-firmware
+iwl7260-firmware
 iwpmd
 jBCrypt
 jFormatString
@@ -1733,6 +1762,7 @@ kernel-modules
 kernel-modules-extra
 kernelshark
 kexec-tools
+kexec-tools-anaconda-addon
 keybinder3
 keycloak-httpd-client-install
 keyutils
@@ -1867,6 +1897,7 @@ libblockdev-fs
 libblockdev-kbd
 libblockdev-loop
 libblockdev-lvm
+libblockdev-lvm-dbus
 libblockdev-mdraid
 libblockdev-mpath
 libblockdev-part
@@ -1938,6 +1969,10 @@ liberation-fonts-common
 liberation-mono-fonts
 liberation-sans-fonts
 liberation-serif-fonts
+libertas-sd8686-firmware
+libertas-sd8787-firmware
+libertas-usb8388-firmware
+libertas-usb8388-olpc-firmware
 libestr
 libetonyek
 libev
@@ -2564,6 +2599,7 @@ mesa-libgbm-devel
 mesa-libglapi
 mesa-libwayland-egl
 mesa-libwayland-egl-devel
+metacity
 metrics
 metrics-jvm
 metrics-reporter-config
@@ -2823,6 +2859,7 @@ nodejs-util-deprecate
 nodejs-which
 nodejs-wrappy
 nodejs-xtend
+notification-daemon
 npm
 npth
 nscd
@@ -4178,6 +4215,7 @@ rygel
 s390utils
 s390utils-base
 s390utils-cmsfs
+s390utils-cmsfs-fuse
 s390utils-cpuplugd
 s390utils-iucvterm
 s390utils-mon_statd
@@ -4681,6 +4719,7 @@ tzdata-java
 uboot-tools
 ucs-miscfixed-fonts
 udisks2
+udisks2-iscsi
 unbound
 unbound-libs
 unicode-ucd
@@ -4715,6 +4754,7 @@ varnish-devel
 varnish-docs
 varnish-libs
 varnish-modules
+vconfig
 velocity
 vemana2000-fonts
 veritysetup
@@ -4809,6 +4849,7 @@ xorg-x11-fonts-Type1
 xorg-x11-fonts-misc
 xorg-x11-proto-devel
 xorg-x11-server-Xephyr
+xorg-x11-server-Xorg
 xorg-x11-server-Xvfb
 xorg-x11-server-Xwayland
 xorg-x11-server-common
@@ -4842,6 +4883,7 @@ ypbind
 ypserv
 yum
 yum-metadata-parser
+zd1211-firmware
 zeitgeist
 zeitgeist-libs
 zenity

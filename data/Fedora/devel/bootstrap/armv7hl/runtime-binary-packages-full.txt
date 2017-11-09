@@ -123,6 +123,7 @@ amanda-server-3.4.5-5.fc27.armv7hl
 amtterm-1.6-3.fc27.armv7hl
 anaconda-27.20-1.fc27.armv7hl
 anaconda-core-27.20-1.fc27.armv7hl
+anaconda-dracut-27.20-1.fc27.armv7hl
 anaconda-gui-27.20-1.fc27.armv7hl
 anaconda-tui-27.20-1.fc27.armv7hl
 anaconda-user-help-26.1-5.fc27.noarch
@@ -178,6 +179,7 @@ atkmm-2.24.2-5.fc27.armv7hl
 atlas-3.10.3-1.fc28.armv7hl
 atlas-devel-3.10.3-1.fc28.armv7hl
 atlas-static-3.10.3-1.fc28.armv7hl
+atmel-firmware-1.3-17.fc27.noarch
 atomic-1.19.1-1.fc28.armv7hl
 atomic-registries-1.19.1-1.fc28.armv7hl
 attica-0.4.2-12.fc27.armv7hl
@@ -230,8 +232,10 @@ bash-completion-1:2.6-2.fc27.noarch
 bash-doc-4.4.12-10.fc28.armv7hl
 bc-1.07.1-3.fc27.armv7hl
 bcache-tools-1.0.8-10.fc27.armv7hl
+bcm283x-firmware-20170703-3.5f54395.fc27.armv7hl
 bea-stax-api-1.2.0-15.fc27.noarch
 bean-validation-api-1.1.0-8.fc27.noarch
+bfa-firmware-3.2.21.1-8.fc27.noarch
 bind-32:9.11.1-6.P3.fc27.armv7hl
 bind-chroot-32:9.11.1-6.P3.fc27.armv7hl
 bind-dyndb-ldap-11.1-6.fc27.armv7hl
@@ -590,6 +594,7 @@ dnssec-trigger-panel-0.13-6.fc28.armv7hl
 docbook-dtds-1.0-68.fc28.noarch
 docbook-style-xsl-1.79.2-6.fc28.noarch
 docker-2:1.13.1-30.gitb5e3294.fc28.armv7hl
+docker-anaconda-addon-0.4-6.fc27.armv7hl
 docker-common-2:1.13.1-30.gitb5e3294.fc28.armv7hl
 docker-distribution-2.6.2-3.git48294d9.fc27.armv7hl
 docker-latest-2:1.13-34.git27e468e.fc27.armv7hl
@@ -611,6 +616,7 @@ dracut-caps-046-7.git20170824.fc28.armv7hl
 dracut-config-generic-046-7.git20170824.fc28.armv7hl
 dracut-config-rescue-046-7.git20170824.fc28.armv7hl
 dracut-fips-046-7.git20170824.fc28.armv7hl
+dracut-live-046-7.git20170824.fc28.armv7hl
 dracut-network-046-7.git20170824.fc28.armv7hl
 dracut-tools-046-7.git20170824.fc28.armv7hl
 driverctl-0.95-3.fc27.noarch
@@ -827,6 +833,7 @@ foomatic-4.0.12-17.fc27.armv7hl
 foomatic-db-4.0-54.20170503.fc27.noarch
 foomatic-db-filesystem-4.0-54.20170503.fc27.noarch
 foomatic-db-ppds-4.0-54.20170503.fc27.noarch
+fpaste-0.3.9.0-1.fc28.noarch
 fpc-srpm-macros-1.1-3.fc27.noarch
 fprintd-0.7.0-4.fc27.armv7hl
 fprintd-devel-0.7.0-4.fc27.noarch
@@ -880,6 +887,8 @@ gcr-devel-3.20.0-6.fc27.armv7hl
 gd-2.2.5-1.fc28.armv7hl
 gdal-libs-2.1.4-5.fc27.armv7hl
 gdal-python3-2.1.4-5.fc27.armv7hl
+gdb-8.0.1-27.fc28.armv7hl
+gdb-gdbserver-8.0.1-27.fc28.armv7hl
 gdb-headless-8.0.1-27.fc28.armv7hl
 gdbm-1.13-3.fc27.armv7hl
 gdisk-1.0.3-4.fc27.armv7hl
@@ -1042,6 +1051,7 @@ glib-networking-2.53.90-1.fc27.armv7hl
 glib2-2.53.6-1.fc28.armv7hl
 glib2-devel-2.53.6-1.fc28.armv7hl
 glibc-2.26.90-9.fc28.armv7hl
+glibc-all-langpacks-2.26.90-9.fc28.armv7hl
 glibc-common-2.26.90-9.fc28.armv7hl
 glibc-devel-2.26.90-9.fc28.armv7hl
 glibc-headers-2.26.90-9.fc28.armv7hl
@@ -1277,6 +1287,7 @@ grilo-plugins-0.3.5-1.fc28.armv7hl
 groff-base-1.22.3-11.fc27.armv7hl
 groff-perl-1.22.3-11.fc27.armv7hl
 groovy-lib-2.4.8-3.fc27.noarch
+grubby-8.40-6.fc27.armv7hl
 gsettings-desktop-schemas-3.24.0-3.fc27.armv7hl
 gsettings-desktop-schemas-devel-3.24.0-3.fc27.armv7hl
 gsl-2.4-3.fc27.armv7hl
@@ -1603,6 +1614,7 @@ icedax-1.1.11-37.fc27.armv7hl
 icedtea-web-1.7-4.fc28.noarch
 icedtea-web-devel-1.7-4.fc28.noarch
 icedtea-web-javadoc-1.7-4.fc28.noarch
+icfg-0.9-13.fc27.noarch
 icoutils-0.31.3-3.fc27.armv7hl
 icu-57.1-8.fc28.armv7hl
 iio-sensor-proxy-2.2-3.fc27.armv7hl
@@ -1640,6 +1652,8 @@ iptraf-ng-1.1.4-15.fc27.armv7hl
 iptstate-2.2.6-4.fc27.armv7hl
 iputils-20161105-7.fc27.armv7hl
 ipvsadm-1.29-4.fc27.armv7hl
+ipw2100-firmware-1.3-21.fc27.noarch
+ipw2200-firmware-3.1-14.fc27.noarch
 ipxe-bootimgs-20161108-2.gitb991c67.fc26.noarch
 ipxe-roms-20161108-2.gitb991c67.fc26.noarch
 ipxe-roms-qemu-20161108-2.gitb991c67.fc26.noarch
@@ -1658,6 +1672,22 @@ isomd5sum-1:1.2.1-4.fc27.armv7hl
 istack-commons-runtime-2.21-6.fc27.noarch
 ivshmem-tools-2:2.10.0-0.4.rc4.fc28.armv7hl
 iw-4.9-3.fc27.armv7hl
+iwl100-firmware-39.31.5.1-75.fc27.noarch
+iwl1000-firmware-1:39.31.5.1-75.fc27.noarch
+iwl105-firmware-18.168.6.1-75.fc27.noarch
+iwl135-firmware-18.168.6.1-75.fc27.noarch
+iwl2000-firmware-18.168.6.1-75.fc27.noarch
+iwl2030-firmware-18.168.6.1-75.fc27.noarch
+iwl3160-firmware-1:25.30.13.0-75.fc27.noarch
+iwl3945-firmware-15.32.2.9-75.fc27.noarch
+iwl4965-firmware-228.61.2.24-75.fc27.noarch
+iwl5000-firmware-8.83.5.1_1-75.fc27.noarch
+iwl5150-firmware-8.24.2.2-75.fc27.noarch
+iwl6000-firmware-9.221.4.1-75.fc27.noarch
+iwl6000g2a-firmware-18.168.6.1-75.fc27.noarch
+iwl6000g2b-firmware-18.168.6.1-75.fc27.noarch
+iwl6050-firmware-41.28.5.1-75.fc27.noarch
+iwl7260-firmware-1:25.30.13.0-75.fc27.noarch
 jBCrypt-0.4-5.fc27.noarch
 jFormatString-0-0.26.20131227gitf159b88.fc27.noarch
 jack-audio-connection-kit-1.9.10-10.fc27.armv7hl
@@ -1747,6 +1777,7 @@ kernel-modules-4.13.0-0.rc6.git4.1.fc28.armv7hl
 kernel-modules-extra-4.13.0-0.rc6.git4.1.fc28.armv7hl
 kernelshark-2.6.1-3.fc27.armv7hl
 kexec-tools-2.0.15-12.fc28.armv7hl
+kexec-tools-anaconda-addon-2.0.15-12.fc28.armv7hl
 keybinder3-0.3.2-3.fc27.armv7hl
 keycloak-httpd-client-install-0.6-2.fc27.noarch
 keyutils-1.5.10-3.fc27.armv7hl
@@ -1875,6 +1906,7 @@ libblockdev-fs-2.12-3.fc28.armv7hl
 libblockdev-kbd-2.12-3.fc28.armv7hl
 libblockdev-loop-2.12-3.fc28.armv7hl
 libblockdev-lvm-2.12-3.fc28.armv7hl
+libblockdev-lvm-dbus-2.12-3.fc28.armv7hl
 libblockdev-mdraid-2.12-3.fc28.armv7hl
 libblockdev-mpath-2.12-3.fc28.armv7hl
 libblockdev-part-2.12-3.fc28.armv7hl
@@ -1947,6 +1979,10 @@ liberation-fonts-common-1:1.07.4-9.fc27.noarch
 liberation-mono-fonts-1:1.07.4-9.fc27.noarch
 liberation-sans-fonts-1:1.07.4-9.fc27.noarch
 liberation-serif-fonts-1:1.07.4-9.fc27.noarch
+libertas-sd8686-firmware-20170622-75.gita3a26af2.fc27.noarch
+libertas-sd8787-firmware-20170622-75.gita3a26af2.fc27.noarch
+libertas-usb8388-firmware-2:20170622-75.gita3a26af2.fc27.noarch
+libertas-usb8388-olpc-firmware-20170622-75.gita3a26af2.fc27.noarch
 libestr-0.1.9-9.fc27.armv7hl
 libetonyek-0.1.6-10.fc27.armv7hl
 libev-4.24-4.fc27.armv7hl
@@ -2584,6 +2620,7 @@ mesa-libgbm-devel-17.2.0-0.2.rc5.fc28.armv7hl
 mesa-libglapi-17.2.0-0.2.rc5.fc28.armv7hl
 mesa-libwayland-egl-17.2.0-0.2.rc5.fc28.armv7hl
 mesa-libwayland-egl-devel-17.2.0-0.2.rc5.fc28.armv7hl
+metacity-3.25.2-3.fc27.armv7hl
 metrics-3.1.2-5.fc27.noarch
 metrics-jvm-3.1.2-5.fc27.noarch
 metrics-reporter-config-3.2.2-2.fc27.noarch
@@ -2844,6 +2881,7 @@ nodejs-util-deprecate-1.0.2-3.fc27.noarch
 nodejs-which-1.2.10-3.fc27.noarch
 nodejs-wrappy-1.0.2-3.fc27.noarch
 nodejs-xtend-4.0.1-2.fc27.noarch
+notification-daemon-3.20.0-4.fc27.armv7hl
 npm-1:5.3.0-1.8.4.0.2.fc28.2.armv7hl
 npth-1.5-3.fc27.armv7hl
 nscd-2.26.90-9.fc28.armv7hl
@@ -2992,6 +3030,7 @@ patch-2.7.5-6.fc27.armv7hl
 pavucontrol-3.0-10.fc27.armv7hl
 pciutils-3.5.5-3.fc27.armv7hl
 pciutils-libs-3.5.5-3.fc27.armv7hl
+pcmciautils-018-13.fc27.armv7hl
 pcre-8.41-1.fc27.2.armv7hl
 pcre-cpp-8.41-1.fc27.2.armv7hl
 pcre-devel-8.41-1.fc27.2.armv7hl
@@ -4698,6 +4737,7 @@ tzdata-java-2017b-2.fc27.noarch
 uboot-tools-2017.09-0.4.rc2.fc28.armv7hl
 ucs-miscfixed-fonts-0.3-16.fc27.noarch
 udisks2-2.7.2-1.fc27.armv7hl
+udisks2-iscsi-2.7.2-1.fc27.armv7hl
 unbound-1.6.4-3.fc27.armv7hl
 unbound-libs-1.6.4-3.fc27.armv7hl
 unicode-ucd-10.0.0-2.fc27.noarch
@@ -4733,6 +4773,7 @@ varnish-devel-5.1.3-2.fc27.armv7hl
 varnish-docs-5.1.3-2.fc27.armv7hl
 varnish-libs-5.1.3-2.fc27.armv7hl
 varnish-modules-0.12.1-4.fc27.armv7hl
+vconfig-1.9-21.fc27.armv7hl
 velocity-1.7-21.fc27.noarch
 vemana2000-fonts-1.1.3-11.fc26.noarch
 veritysetup-1.7.5-5.fc28.armv7hl
@@ -4875,6 +4916,7 @@ ypbind-3:2.4-4.fc27.armv7hl
 ypserv-4.0-4.20170331git5bfba76.fc27.armv7hl
 yum-3.4.3-515.fc28.noarch
 yum-metadata-parser-1.1.4-20.fc27.armv7hl
+zd1211-firmware-1.4-14.fc27.noarch
 zeitgeist-1.0-4.fc27.armv7hl
 zeitgeist-libs-1.0-4.fc27.armv7hl
 zenity-3.24.0-3.fc27.armv7hl

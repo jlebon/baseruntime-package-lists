@@ -87,6 +87,7 @@ atinject
 atk
 atkmm
 atlas
+atmel-firmware
 atomic
 atomic-devmode
 attica
@@ -115,6 +116,7 @@ bc
 bcache-tools
 bea-stax
 bean-validation-api
+bfa-firmware
 bind
 bind-dyndb-ldap
 bind99
@@ -257,6 +259,7 @@ dnssec-trigger
 docbook-dtds
 docbook-style-xsl
 docker
+docker-anaconda-addon
 docker-distribution
 docker-latest
 dogtail
@@ -348,6 +351,7 @@ fontconfig
 fontpackages
 foomatic
 foomatic-db
+fpaste
 fpc-srpm-macros
 fprintd
 freeipa
@@ -847,6 +851,7 @@ ibus-table-chinese
 ibus-typing-booster
 ibutils
 icedtea-web
+icfg
 icoutils
 icu
 iio-sensor-proxy
@@ -872,6 +877,8 @@ iptraf-ng
 iptstate
 iputils
 ipvsadm
+ipw2100-firmware
+ipw2200-firmware
 ipxe
 irqbalance
 irrlicht
@@ -1361,6 +1368,7 @@ mesa
 mesa-demos
 mesa-libGLU
 mesa-libGLw
+metacity
 metrics
 metrics-reporter-config
 microcode_ctl
@@ -1562,6 +1570,7 @@ nodejs-util-deprecate
 nodejs-which
 nodejs-wrappy
 nodejs-xtend
+notification-daemon
 npth
 nspr
 nss
@@ -1643,6 +1652,7 @@ passwd
 patch
 pavucontrol
 pciutils
+pcmciautils
 pcre
 pcre2
 pcs
@@ -2418,6 +2428,7 @@ v4l-utils
 vala
 varnish
 varnish-modules
+vconfig
 velocity
 vemana2000-fonts
 vhostmd
@@ -2521,6 +2532,7 @@ ypserv
 yum
 yum-metadata-parser
 zaf
+zd1211-firmware
 zeitgeist
 zenity
 zerofree

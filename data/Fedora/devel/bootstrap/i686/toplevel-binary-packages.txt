@@ -62,6 +62,8 @@ amanda-client
 amanda-libs
 amanda-server
 anaconda
+anaconda-dracut
+anaconda-widgets
 ansible
 ansible-doc
 ansible-python3
@@ -82,6 +84,7 @@ at
 atlas
 atlas-devel
 atlas-static
+atmel-firmware
 atomic
 atomic-devmode
 attr
@@ -121,6 +124,7 @@ bash
 bash-completion
 bash-doc
 bc
+bfa-firmware
 bind
 bind-chroot
 bind-dyndb-ldap
@@ -308,6 +312,7 @@ daxctl
 daxctl-devel
 daxctl-libs
 dbus-glib
+dbus-x11
 dconf-editor
 debugmode
 dejavu-sans-fonts
@@ -361,6 +366,7 @@ dnssec-trigger-panel
 docbook-dtds
 docbook-style-xsl
 docker
+docker-anaconda-addon
 docker-distribution
 docker-latest
 docker-latest-devel
@@ -541,6 +547,7 @@ folks-devel
 folks-tools
 foomatic
 foomatic-db-ppds
+fpaste
 fprintd
 fprintd-devel
 fprintd-pam
@@ -575,6 +582,8 @@ galera
 gawk
 gcc
 gcc-c++
+gdb
+gdb-gdbserver
 gdisk
 gedit
 gedit-devel
@@ -611,6 +620,7 @@ glade3-libgladeui
 glade3-libgladeui-devel
 glib2
 glibc
+glibc-all-langpacks
 gmp
 gmp-c++
 gmp-devel
@@ -708,6 +718,8 @@ grub2-pc-modules
 grub2-tools
 grub2-tools-extra
 grub2-tools-minimal
+grubby
+gsettings-desktop-schemas
 gsound
 gsound-devel
 gssproxy
@@ -725,8 +737,10 @@ gxvattr
 gzip
 haproxy
 haskell-platform
+hdparm
 hexchat
 hexchat-devel
+hexedit
 hfsplus-tools
 hfsutils
 highcontrast-qt
@@ -970,6 +984,7 @@ ibutils-static
 icedtea-web
 icedtea-web-devel
 icedtea-web-javadoc
+icfg
 icu
 initial-setup
 initial-setup-gui
@@ -983,6 +998,7 @@ ipa-mincho-fonts
 ipa-pgothic-fonts
 ipa-pmincho-fonts
 iperf3
+ipmitool
 iproute
 iproute-devel
 iproute-doc
@@ -999,6 +1015,8 @@ iptraf-ng
 iptstate
 iputils
 ipvsadm
+ipw2100-firmware
+ipw2200-firmware
 ipxe-bootimgs
 ipxe-roms
 ipxe-roms-qemu
@@ -1011,11 +1029,28 @@ isns-utils
 isns-utils-devel
 isns-utils-libs
 ivshmem-tools
+iwl100-firmware
+iwl1000-firmware
+iwl105-firmware
+iwl135-firmware
+iwl2000-firmware
+iwl2030-firmware
+iwl3160-firmware
+iwl3945-firmware
+iwl4965-firmware
+iwl5000-firmware
+iwl5150-firmware
+iwl6000-firmware
+iwl6000g2a-firmware
+iwl6000g2b-firmware
+iwl6050-firmware
+iwl7260-firmware
 iwpmd
 jansson
 jansson-devel
 jansson-devel-doc
 jbigkit
+jfsutils
 jomolhari-fonts
 jose
 json-c
@@ -1037,6 +1072,7 @@ kacst-screen-fonts
 kacst-title-fonts
 kacst-titlel-fonts
 kbd
+kbd-misc
 keepalived
 kernel
 kernel-core
@@ -1047,6 +1083,7 @@ kernel-modules-extra
 kernel-PAE
 kernelshark
 kexec-tools
+kexec-tools-anaconda-addon
 keycloak-httpd-client-install
 keyutils
 khmeros-base-fonts
@@ -1076,6 +1113,7 @@ libattr-devel
 libblkid
 libblkid-devel
 libblockdev
+libblockdev-lvm-dbus
 libcgroup
 libcomps
 libcomps-devel
@@ -1094,6 +1132,10 @@ libedit
 liberation-mono-fonts
 liberation-sans-fonts
 liberation-serif-fonts
+libertas-sd8686-firmware
+libertas-sd8787-firmware
+libertas-usb8388-firmware
+libertas-usb8388-olpc-firmware
 libev
 libevent
 libfabric
@@ -1201,7 +1243,10 @@ libreoffice-xsltfilter
 libreofficekit
 librepo
 librepo-devel
+libreport-plugin-bugzilla
+libreport-plugin-reportuploader
 libreswan
+librsvg2
 libseccomp
 libseccomp-devel
 libseccomp-static
@@ -1401,6 +1446,7 @@ memtest86+
 mesa-libGLw
 mesa-libGLw-devel
 mesa-libwayland-egl
+metacity
 microcode_ctl
 microdnf
 minicom
@@ -1531,6 +1577,7 @@ nmap
 nmap-ncat
 node-gyp
 nodejs
+notification-daemon
 npm
 npth
 nspr
@@ -1540,6 +1587,8 @@ nss-altfiles
 nss-devel
 nss-pam-ldapd
 nss-tools
+ntfs-3g
+ntfsprogs
 ntsysv
 numad
 nvme-cli
@@ -1601,6 +1650,7 @@ oprofile-devel
 oprofile-jit
 orca
 oscap-anaconda-addon
+ostree
 ostree-grub2
 overpass-fonts
 p11-kit
@@ -1631,6 +1681,7 @@ passwd
 patch
 pavucontrol
 pciutils
+pcmciautils
 pcs
 pcsc-lite
 pcsc-lite-ccid
@@ -1795,6 +1846,7 @@ pidgin-devel
 pidgin-docs
 pidgin-perl
 pidgin-sipe
+pigz
 pinentry
 pinentry-emacs
 pinentry-gnome3
@@ -2182,6 +2234,7 @@ redhat-lsb-supplemental
 redhat-lsb-trialuse
 redhat-rpm-config
 redis
+reiserfs-utils
 resource-agents
 rhn-check
 rhn-client-tools
@@ -2476,6 +2529,8 @@ tuned-profiles-sap-hana
 tuned-utils
 tuned-utils-systemtap
 uboot-tools
+udisks2
+udisks2-iscsi
 unbound
 unbound-libs
 units
@@ -2498,6 +2553,7 @@ varnish-devel
 varnish-docs
 varnish-libs
 varnish-modules
+vconfig
 vemana2000-fonts
 veritysetup
 vhostmd
@@ -2566,8 +2622,12 @@ xorg-x11-drv-qxl
 xorg-x11-drv-v4l
 xorg-x11-drv-vesa
 xorg-x11-drv-vmware
+xorg-x11-fonts-misc
+xorg-x11-server-utils
+xorg-x11-server-Xorg
 xorg-x11-server-Xspice
 xorg-x11-server-Xwayland
+xorg-x11-xauth
 xrestop
 xsane
 xsane-gimp
@@ -2578,6 +2638,7 @@ xz
 yp-tools
 ypbind
 ypserv
+zd1211-firmware
 zip
 zlib
 zsh

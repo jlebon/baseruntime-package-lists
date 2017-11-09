@@ -174,6 +174,7 @@ amanda-server-3.4.5-5.fc27.i686
 amtterm-1.6-3.fc27.i686
 anaconda-27.20-1.fc27.i686
 anaconda-core-27.20-1.fc27.i686
+anaconda-dracut-27.20-1.fc27.i686
 anaconda-gui-27.20-1.fc27.i686
 anaconda-tui-27.20-1.fc27.i686
 anaconda-user-help-26.1-5.fc27.noarch
@@ -352,6 +353,7 @@ atkmm-devel-2.24.2-5.fc27.i686
 atlas-3.10.3-1.fc28.i686
 atlas-devel-3.10.3-1.fc28.i686
 atlas-static-3.10.3-1.fc28.i686
+atmel-firmware-1.3-17.fc27.noarch
 atomic-1.19.1-1.fc28.i686
 atomic-devmode-0.3.7-2.fc27.noarch
 atomic-registries-1.19.1-1.fc28.i686
@@ -511,6 +513,7 @@ bea-stax-1.2.0-15.fc27.noarch
 bea-stax-api-1.2.0-15.fc27.noarch
 bean-validation-api-1.1.0-8.fc27.noarch
 beust-jcommander-1.71-2.fc27.noarch
+bfa-firmware-3.2.21.1-8.fc27.noarch
 bibutils-devel-5.5-6.fc27.i686
 bibutils-libs-5.5-6.fc27.i686
 bind-32:9.11.1-6.P3.fc27.i686
@@ -1058,6 +1061,7 @@ docbook2X-0.8.8-28.fc27.i686
 docbook5-schemas-5.0-16.fc27.noarch
 docbook5-style-xsl-1.79.2-4.fc27.noarch
 docker-2:1.13.1-30.gitb5e3294.fc28.i686
+docker-anaconda-addon-0.4-6.fc27.i686
 docker-client-java-6.2.5-4.fc27.noarch
 docker-common-2:1.13.1-30.gitb5e3294.fc28.i686
 docker-devel-2:1.13.1-30.gitb5e3294.fc28.noarch
@@ -1092,6 +1096,7 @@ dracut-caps-046-7.git20170824.fc28.i686
 dracut-config-generic-046-7.git20170824.fc28.i686
 dracut-config-rescue-046-7.git20170824.fc28.i686
 dracut-fips-046-7.git20170824.fc28.i686
+dracut-live-046-7.git20170824.fc28.i686
 dracut-network-046-7.git20170824.fc28.i686
 dracut-tools-046-7.git20170824.fc28.i686
 driverctl-0.95-3.fc27.noarch
@@ -1486,6 +1491,7 @@ foomatic-db-filesystem-4.0-54.20170503.fc27.noarch
 foomatic-db-ppds-4.0-54.20170503.fc27.noarch
 fop-2.0-8.fc28.noarch
 forge-parent-38-9.fc27.noarch
+fpaste-0.3.9.0-1.fc28.noarch
 fpc-srpm-macros-1.1-3.fc27.noarch
 fping-4.0-4.fc27.i686
 fprintd-0.7.0-4.fc27.i686
@@ -1573,6 +1579,7 @@ gdal-libs-2.1.4-5.fc27.i686
 gdal-python-2.1.4-5.fc27.i686
 gdal-python3-2.1.4-5.fc27.i686
 gdb-8.0.1-27.fc28.i686
+gdb-gdbserver-8.0.1-27.fc28.i686
 gdb-headless-8.0.1-27.fc28.i686
 gdbm-1.13-3.fc27.i686
 gdbm-devel-1.13-3.fc27.i686
@@ -2748,6 +2755,7 @@ icedax-1.1.11-37.fc27.i686
 icedtea-web-1.7-4.fc28.noarch
 icedtea-web-devel-1.7-4.fc28.noarch
 icedtea-web-javadoc-1.7-4.fc28.noarch
+icfg-0.9-13.fc27.noarch
 icoutils-0.31.3-3.fc27.i686
 icu-57.1-8.fc28.i686
 icu4j-1:59.1-2.fc27.noarch
@@ -2798,6 +2806,8 @@ iptraf-ng-1.1.4-15.fc27.i686
 iptstate-2.2.6-4.fc27.i686
 iputils-20161105-7.fc27.i686
 ipvsadm-1.29-4.fc27.i686
+ipw2100-firmware-1.3-21.fc27.noarch
+ipw2200-firmware-3.1-14.fc27.noarch
 ipxe-bootimgs-20161108-2.gitb991c67.fc26.noarch
 ipxe-roms-20161108-2.gitb991c67.fc26.noarch
 ipxe-roms-qemu-20161108-2.gitb991c67.fc26.noarch
@@ -2830,6 +2840,22 @@ itstool-2.0.2-7.fc27.noarch
 ivshmem-tools-2:2.10.0-0.4.rc4.fc28.i686
 ivy-local-5.0.0-8.fc28.noarch
 iw-4.9-3.fc27.i686
+iwl100-firmware-39.31.5.1-75.fc27.noarch
+iwl1000-firmware-1:39.31.5.1-75.fc27.noarch
+iwl105-firmware-18.168.6.1-75.fc27.noarch
+iwl135-firmware-18.168.6.1-75.fc27.noarch
+iwl2000-firmware-18.168.6.1-75.fc27.noarch
+iwl2030-firmware-18.168.6.1-75.fc27.noarch
+iwl3160-firmware-1:25.30.13.0-75.fc27.noarch
+iwl3945-firmware-15.32.2.9-75.fc27.noarch
+iwl4965-firmware-228.61.2.24-75.fc27.noarch
+iwl5000-firmware-8.83.5.1_1-75.fc27.noarch
+iwl5150-firmware-8.24.2.2-75.fc27.noarch
+iwl6000-firmware-9.221.4.1-75.fc27.noarch
+iwl6000g2a-firmware-18.168.6.1-75.fc27.noarch
+iwl6000g2b-firmware-18.168.6.1-75.fc27.noarch
+iwl6050-firmware-41.28.5.1-75.fc27.noarch
+iwl7260-firmware-1:25.30.13.0-75.fc27.noarch
 iwpmd-14-4.fc27.i686
 jBCrypt-0.4-5.fc27.noarch
 jFormatString-0-0.26.20131227gitf159b88.fc27.noarch
@@ -3198,6 +3224,7 @@ kernel-modules-4.13.0-0.rc6.git4.1.fc28.i686
 kernel-modules-extra-4.13.0-0.rc6.git4.1.fc28.i686
 kernelshark-2.6.1-3.fc27.i686
 kexec-tools-2.0.15-12.fc28.i686
+kexec-tools-anaconda-addon-2.0.15-12.fc28.i686
 keybinder3-0.3.2-3.fc27.i686
 keycloak-httpd-client-install-0.6-2.fc27.noarch
 keyutils-1.5.10-3.fc27.i686
@@ -3410,6 +3437,7 @@ libblockdev-kbd-devel-2.12-3.fc28.i686
 libblockdev-loop-2.12-3.fc28.i686
 libblockdev-loop-devel-2.12-3.fc28.i686
 libblockdev-lvm-2.12-3.fc28.i686
+libblockdev-lvm-dbus-2.12-3.fc28.i686
 libblockdev-lvm-devel-2.12-3.fc28.i686
 libblockdev-mdraid-2.12-3.fc28.i686
 libblockdev-mdraid-devel-2.12-3.fc28.i686
@@ -3547,6 +3575,10 @@ liberation-fonts-common-1:1.07.4-9.fc27.noarch
 liberation-mono-fonts-1:1.07.4-9.fc27.noarch
 liberation-sans-fonts-1:1.07.4-9.fc27.noarch
 liberation-serif-fonts-1:1.07.4-9.fc27.noarch
+libertas-sd8686-firmware-20170622-75.gita3a26af2.fc27.noarch
+libertas-sd8787-firmware-20170622-75.gita3a26af2.fc27.noarch
+libertas-usb8388-firmware-2:20170622-75.gita3a26af2.fc27.noarch
+libertas-usb8388-olpc-firmware-20170622-75.gita3a26af2.fc27.noarch
 libestr-0.1.9-9.fc27.i686
 libestr-devel-0.1.9-9.fc27.i686
 libetonyek-0.1.6-10.fc27.i686
@@ -5206,6 +5238,7 @@ nodejs-yamlish-0.0.5-10.fc27.noarch
 nodejs-yargs-3.2.1-7.fc27.noarch
 nodeunit-0.9.1-7.fc27.noarch
 noggit-0.7-4.fc27.noarch
+notification-daemon-3.20.0-4.fc27.i686
 npm-1:5.3.0-1.8.4.0.2.fc28.2.i686
 npth-1.5-3.fc27.i686
 npth-devel-1.5-3.fc27.i686
@@ -5484,6 +5517,7 @@ pcfi-2010.08.09-12.20111103gitbd245c9.fc27.noarch
 pciutils-3.5.5-3.fc27.i686
 pciutils-devel-3.5.5-3.fc27.i686
 pciutils-libs-3.5.5-3.fc27.i686
+pcmciautils-018-13.fc27.i686
 pcp-conf-3.12.1-3.fc28.i686
 pcp-libs-3.12.1-3.fc28.i686
 pcp-libs-devel-3.12.1-3.fc28.i686
@@ -9751,6 +9785,7 @@ ucpp-1.3.4-10.fc27.i686
 ucpp-libs-1.3.4-10.fc27.i686
 ucs-miscfixed-fonts-0.3-16.fc27.noarch
 udisks2-2.7.2-1.fc27.i686
+udisks2-iscsi-2.7.2-1.fc27.i686
 uglify-js-2.8.22-3.fc27.noarch
 uglify-js1-1.3.4-14.fc28.noarch
 uhttpmock-0.5.0-5.fc27.i686
@@ -9813,6 +9848,7 @@ varnish-devel-5.1.3-2.fc27.i686
 varnish-docs-5.1.3-2.fc27.i686
 varnish-libs-5.1.3-2.fc27.i686
 varnish-modules-0.12.1-4.fc27.i686
+vconfig-1.9-21.fc27.i686
 velocity-1.7-21.fc27.noarch
 velocity-tools-2.0-17.fc27.noarch
 vemana2000-fonts-1.1.3-11.fc26.noarch
@@ -10094,6 +10130,7 @@ yum-3.4.3-515.fc28.noarch
 yum-metadata-parser-1.1.4-20.fc27.i686
 zbar-0.20-4.fc27.i686
 zbar-devel-0.20-4.fc27.i686
+zd1211-firmware-1.4-14.fc27.noarch
 zeitgeist-1.0-4.fc27.i686
 zeitgeist-devel-1.0-4.fc27.i686
 zeitgeist-libs-1.0-4.fc27.i686

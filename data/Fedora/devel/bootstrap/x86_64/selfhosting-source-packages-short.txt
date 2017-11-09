@@ -169,6 +169,7 @@ atinject
 atk
 atkmm
 atlas
+atmel-firmware
 atomic
 atomic-devmode
 attica
@@ -214,6 +215,7 @@ bcel
 bea-stax
 bean-validation-api
 beust-jcommander
+bfa-firmware
 bibutils
 bind
 bind-dyndb-ldap
@@ -446,6 +448,7 @@ docbook2X
 docbook5-schemas
 docbook5-style-xsl
 docker
+docker-anaconda-addon
 docker-client-java
 docker-distribution
 docker-latest
@@ -627,6 +630,7 @@ foomatic
 foomatic-db
 fop
 forge-parent
+fpaste
 fpc-srpm-macros
 fping
 fprintd
@@ -1301,6 +1305,7 @@ ibus-typing-booster
 ibutils
 icc-profiles-openicc
 icedtea-web
+icfg
 icoutils
 icu
 icu4j
@@ -1335,6 +1340,8 @@ iptraf-ng
 iptstate
 iputils
 ipvsadm
+ipw2100-firmware
+ipw2200-firmware
 ipxe
 ipython
 irclib
@@ -2626,6 +2633,7 @@ nodejs-yamlish
 nodejs-yargs
 nodeunit
 noggit
+notification-daemon
 npth
 nspr
 nss
@@ -2757,6 +2765,7 @@ patchutils
 pavucontrol
 pcfi
 pciutils
+pcmciautils
 pcp
 pcre
 pcre2
@@ -4609,6 +4618,7 @@ vala
 valgrind
 varnish
 varnish-modules
+vconfig
 velocity
 velocity-tools
 vemana2000-fonts
@@ -4770,6 +4780,7 @@ yum
 yum-metadata-parser
 zaf
 zbar
+zd1211-firmware
 zeitgeist
 zenity
 zerofree

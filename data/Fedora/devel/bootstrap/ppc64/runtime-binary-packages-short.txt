@@ -122,6 +122,7 @@ amanda-server
 amtterm
 anaconda
 anaconda-core
+anaconda-dracut
 anaconda-gui
 anaconda-tui
 anaconda-user-help
@@ -183,6 +184,7 @@ atlas-power8
 atlas-power8-devel
 atlas-power8-static
 atlas-static
+atmel-firmware
 attica
 attr
 audispd-plugins
@@ -235,6 +237,7 @@ bc
 bcache-tools
 bea-stax-api
 bean-validation-api
+bfa-firmware
 bind
 bind-chroot
 bind-dyndb-ldap
@@ -597,6 +600,7 @@ dracut-caps
 dracut-config-generic
 dracut-config-rescue
 dracut-fips
+dracut-live
 dracut-network
 dracut-tools
 driverctl
@@ -804,6 +808,7 @@ foomatic
 foomatic-db
 foomatic-db-filesystem
 foomatic-db-ppds
+fpaste
 fpc-srpm-macros
 fprintd
 fprintd-devel
@@ -857,6 +862,8 @@ gcr-devel
 gd
 gdal-libs
 gdal-python3
+gdb
+gdb-gdbserver
 gdb-headless
 gdbm
 gdisk
@@ -1019,6 +1026,7 @@ glib-networking
 glib2
 glib2-devel
 glibc
+glibc-all-langpacks
 glibc-common
 glibc-devel
 glibc-headers
@@ -1175,6 +1183,7 @@ grub2-ppc64-modules
 grub2-tools
 grub2-tools-extra
 grub2-tools-minimal
+grubby
 gsettings-desktop-schemas
 gsettings-desktop-schemas-devel
 gsl
@@ -1508,6 +1517,7 @@ icedax
 icedtea-web
 icedtea-web-devel
 icedtea-web-javadoc
+icfg
 icoutils
 icu
 iio-sensor-proxy
@@ -1545,6 +1555,8 @@ iptraf-ng
 iptstate
 iputils
 ipvsadm
+ipw2100-firmware
+ipw2200-firmware
 ipxe-bootimgs
 ipxe-roms
 ipxe-roms-qemu
@@ -1563,6 +1575,22 @@ isomd5sum
 istack-commons-runtime
 ivshmem-tools
 iw
+iwl100-firmware
+iwl1000-firmware
+iwl105-firmware
+iwl135-firmware
+iwl2000-firmware
+iwl2030-firmware
+iwl3160-firmware
+iwl3945-firmware
+iwl4965-firmware
+iwl5000-firmware
+iwl5150-firmware
+iwl6000-firmware
+iwl6000g2a-firmware
+iwl6000g2b-firmware
+iwl6050-firmware
+iwl7260-firmware
 iwpmd
 jBCrypt
 jFormatString
@@ -1651,6 +1679,7 @@ kernel-modules
 kernel-modules-extra
 kernelshark
 kexec-tools
+kexec-tools-anaconda-addon
 keybinder3
 keycloak-httpd-client-install
 keyutils
@@ -1780,6 +1809,7 @@ libblockdev-fs
 libblockdev-kbd
 libblockdev-loop
 libblockdev-lvm
+libblockdev-lvm-dbus
 libblockdev-mdraid
 libblockdev-mpath
 libblockdev-part
@@ -1854,6 +1884,10 @@ liberation-fonts-common
 liberation-mono-fonts
 liberation-sans-fonts
 liberation-serif-fonts
+libertas-sd8686-firmware
+libertas-sd8787-firmware
+libertas-usb8388-firmware
+libertas-usb8388-olpc-firmware
 libestr
 libetonyek
 libev
@@ -2504,6 +2538,7 @@ mesa-libgbm-devel
 mesa-libglapi
 mesa-libwayland-egl
 mesa-libwayland-egl-devel
+metacity
 metrics
 metrics-jvm
 metrics-reporter-config
@@ -2765,6 +2800,7 @@ nodejs-util-deprecate
 nodejs-which
 nodejs-wrappy
 nodejs-xtend
+notification-daemon
 npm
 npth
 nscd
@@ -2917,6 +2953,7 @@ patch
 pavucontrol
 pciutils
 pciutils-libs
+pcmciautils
 pcre
 pcre-cpp
 pcre-devel
@@ -4620,6 +4657,7 @@ tzdata-java
 uboot-tools
 ucs-miscfixed-fonts
 udisks2
+udisks2-iscsi
 unbound
 unbound-libs
 unicode-ucd
@@ -4655,6 +4693,7 @@ varnish-devel
 varnish-docs
 varnish-libs
 varnish-modules
+vconfig
 velocity
 vemana2000-fonts
 veritysetup
@@ -4795,6 +4834,7 @@ ypbind
 ypserv
 yum
 yum-metadata-parser
+zd1211-firmware
 zeitgeist
 zeitgeist-libs
 zenity
