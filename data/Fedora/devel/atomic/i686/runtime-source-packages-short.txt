@@ -218,6 +218,7 @@ python-ply
 python-prettytable
 python-pycparser
 python-pysocks
+python-pytoml
 python-requests
 python-rhsm
 python-setuptools

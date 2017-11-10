@@ -7338,6 +7338,7 @@ python3-pytest-sourceorder
 python3-pytest-timeout
 python3-pytest-xdist
 python3-python-etcd
+python3-pytoml
 python3-pytz
 python3-pyudev
 python3-pyusb

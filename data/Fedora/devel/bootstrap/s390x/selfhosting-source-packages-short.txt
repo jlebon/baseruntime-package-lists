@@ -3886,6 +3886,7 @@ python-pytest-runner
 python-pytest-sourceorder
 python-pytest-timeout
 python-pytest-xdist
+python-pytoml
 python-pyudev
 python-qrcode
 python-qt5

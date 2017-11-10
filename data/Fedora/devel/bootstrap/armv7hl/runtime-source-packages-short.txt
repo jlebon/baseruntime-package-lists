@@ -2073,6 +2073,7 @@ python-pynacl
 python-pysocks
 python-pytest-multihost
 python-pytest-sourceorder
+python-pytoml
 python-pyudev
 python-qrcode
 python-qt5

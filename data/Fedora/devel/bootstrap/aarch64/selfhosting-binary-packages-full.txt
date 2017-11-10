@@ -354,9 +354,9 @@ atlas-3.10.3-1.fc28.aarch64
 atlas-devel-3.10.3-1.fc28.aarch64
 atlas-static-3.10.3-1.fc28.aarch64
 atmel-firmware-1.3-17.fc27.noarch
-atomic-1.19.1-1.fc28.aarch64
+atomic-1.20.1-2.fc28.aarch64
 atomic-devmode-0.3.7-2.fc27.noarch
-atomic-registries-1.19.1-1.fc28.aarch64
+atomic-registries-1.20.1-2.fc28.aarch64
 attica-0.4.2-12.fc27.aarch64
 attica-devel-0.4.2-12.fc27.aarch64
 attr-2.4.47-21.fc27.aarch64
@@ -7356,6 +7356,7 @@ python3-pytest-sourceorder-0.5-8.fc28.noarch
 python3-pytest-timeout-1.2.0-3.fc27.noarch
 python3-pytest-xdist-1.20.0-1.fc28.noarch
 python3-python-etcd-0.4.5-7.fc27.noarch
+python3-pytoml-0.1.14-2.git7dea353.fc27.noarch
 python3-pytz-2017.2-4.fc28.noarch
 python3-pyudev-0.21.0-4.fc27.noarch
 python3-pyusb-1.0.0-6.fc28.noarch

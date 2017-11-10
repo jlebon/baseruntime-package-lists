@@ -338,6 +338,7 @@ python3-pyOpenSSL
 python3-pycparser
 python3-pyserial
 python3-pysocks
+python3-pytoml
 python3-requests
 python3-rpm
 python3-setools

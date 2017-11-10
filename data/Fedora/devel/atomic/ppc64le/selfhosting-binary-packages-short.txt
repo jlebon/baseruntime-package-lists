@@ -4455,6 +4455,7 @@ python3-pytest-httpbin
 python3-pytest-mock
 python3-pytest-runner
 python3-pytest-timeout
+python3-pytoml
 python3-pytz
 python3-pyudev
 python3-pywbem

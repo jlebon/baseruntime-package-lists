@@ -232,8 +232,8 @@ atkmm-2.24.2-5.fc27.armv7hl
 atkmm-devel-2.24.2-5.fc27.armv7hl
 atlas-3.10.3-1.fc28.armv7hl
 atlas-devel-3.10.3-1.fc28.armv7hl
-atomic-1.19.1-1.fc28.armv7hl
-atomic-registries-1.19.1-1.fc28.armv7hl
+atomic-1.20.1-2.fc28.armv7hl
+atomic-registries-1.20.1-2.fc28.armv7hl
 attica-0.4.2-12.fc27.armv7hl
 attica-devel-0.4.2-12.fc27.armv7hl
 attr-2.4.47-21.fc27.armv7hl
@@ -4441,6 +4441,7 @@ python3-pytest-httpbin-0.2.3-7.fc27.noarch
 python3-pytest-mock-1.6.3-1.fc27.noarch
 python3-pytest-runner-2.9-6.fc28.noarch
 python3-pytest-timeout-1.2.0-3.fc27.noarch
+python3-pytoml-0.1.14-2.git7dea353.fc27.noarch
 python3-pytz-2017.2-4.fc28.noarch
 python3-pyudev-0.21.0-4.fc27.noarch
 python3-pywbem-0.10.0-3.fc28.noarch

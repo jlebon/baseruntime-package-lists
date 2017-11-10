@@ -2647,6 +2647,7 @@ python-pytest-httpbin
 python-pytest-mock
 python-pytest-runner
 python-pytest-timeout
+python-pytoml
 python-pyudev
 python-qt5
 python-reportlab

@@ -129,7 +129,7 @@ atinject-1-25.20100611svn86.fc27.src
 atk-2.25.90-1.fc27.src
 atkmm-2.24.2-5.fc27.src
 atlas-3.10.3-1.fc28.src
-atomic-1.19.1-1.fc28.src
+atomic-1.20.1-2.fc28.src
 attica-0.4.2-12.fc27.src
 attr-2.4.47-21.fc27.src
 audiofile-1:0.3.6-15.fc27.src
@@ -2647,6 +2647,7 @@ python-pytest-httpbin-0.2.3-7.fc27.src
 python-pytest-mock-1.6.3-1.fc27.src
 python-pytest-runner-2.9-6.fc28.src
 python-pytest-timeout-1.2.0-3.fc27.src
+python-pytoml-0.1.14-2.git7dea353.fc27.src
 python-pyudev-0.21.0-4.fc27.src
 python-qt5-5.9-6.fc27.src
 python-reportlab-3.4.0-3.fc27.src
