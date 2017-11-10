@@ -1369,6 +1369,7 @@ haskell-platform
 hawtjni-runtime
 hdf5
 hdparm
+heat-cfntools
 herqq
 hesiod
 hexchat
@@ -3793,6 +3794,7 @@ python3-beautifulsoup4
 python3-bind
 python3-blivet
 python3-blockdev
+python3-boto
 python3-brlapi
 python3-bytesize
 python3-cairo
@@ -3954,6 +3956,7 @@ python3-rpm
 python3-rpm-generators
 python3-rpm-macros
 python3-rpmconf
+python3-rsa
 python3-rtslib
 python3-samba
 python3-samba-test

@@ -635,6 +635,7 @@ haskell-platform
 hawtjni
 hdf5
 hdparm
+heat-cfntools
 herqq
 hesiod
 hexchat
@@ -1988,6 +1989,7 @@ python-beautifulsoup4
 python-behave
 python-blist
 python-blivet
+python-boto
 python-cassandra-driver
 python-cffi
 python-chardet
@@ -2085,6 +2087,7 @@ python-requests-oauthlib
 python-rhsm
 python-rpm-generators
 python-rpm-macros
+python-rsa
 python-rtslib
 python-scales
 python-schedutils

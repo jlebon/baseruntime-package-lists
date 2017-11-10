@@ -748,6 +748,7 @@ gzip
 haproxy
 haskell-platform
 hdparm
+heat-cfntools
 hexchat
 hexchat-devel
 hexedit

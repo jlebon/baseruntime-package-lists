@@ -537,6 +537,7 @@ haskell-platform-2017.8.0.2-8.fc27.src
 hawtjni-1.15-2.fc27.src
 hdf5-1.8.18-10.fc28.src
 hdparm-9.51-3.fc27.src
+heat-cfntools-1.4.2-3.fc27.src
 herqq-1.0.0-16.fc27.src
 hesiod-3.2.1-9.fc27.src
 hexchat-2.12.4-8.fc27.src
@@ -1905,6 +1906,7 @@ python-beautifulsoup4-4.6.0-4.fc28.src
 python-behave-1.2.5-21.fc27.src
 python-blist-1.3.6-12.fc27.src
 python-blivet-1:2.1.10-1.fc28.src
+python-boto-2.45.0-5.fc27.src
 python-cassandra-driver-3.11.0-2.fc27.src
 python-cffi-1.11.0-2.fc28.src
 python-chardet-3.0.4-3.fc28.src
@@ -2000,6 +2002,7 @@ python-requests-oauthlib-0.8.0-3.fc27.src
 python-rhsm-1.20.1-3.fc27.src
 python-rpm-generators-4.13.0.1-4.fc28.src
 python-rpm-macros-3-22.fc27.src
+python-rsa-3.4.2-4.fc27.src
 python-rtslib-2.1.fb63-4.fc28.src
 python-scales-1.0.5-12.fc28.src
 python-schedutils-0.5-5.fc28.src

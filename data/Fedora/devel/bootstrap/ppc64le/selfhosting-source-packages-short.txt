@@ -1061,6 +1061,7 @@ hawtjni
 hdf
 hdf5
 hdparm
+heat-cfntools
 help2man
 herqq
 hesiod
@@ -3740,6 +3741,7 @@ python-behave
 python-blinker
 python-blist
 python-blivet
+python-boto
 python-boto3
 python-botocore
 python-bottle
@@ -3941,6 +3943,7 @@ python-restkit
 python-rhsm
 python-rpm-generators
 python-rpm-macros
+python-rsa
 python-rtslib
 python-s3transfer
 python-scales
@@ -3973,6 +3976,7 @@ python-systemd
 python-tables
 python-tempita
 python-testpath
+python-testrepository
 python-testscenarios
 python-testtools
 python-tornado
