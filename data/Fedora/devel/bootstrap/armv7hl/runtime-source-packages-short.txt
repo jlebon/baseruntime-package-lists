@@ -234,6 +234,7 @@ debootstrap
 dee
 dejavu-fonts
 deltarpm
+desktop-backgrounds
 desktop-file-utils
 devhelp
 device-mapper-multipath
@@ -306,6 +307,7 @@ exiv2
 expat
 extlinux-bootloader
 extra166y
+f26-backgrounds
 fabtests
 fakeroot
 farstream02
@@ -929,6 +931,7 @@ kbd
 kde-filesystem
 kde-l10n
 kde-settings
+kde-workspace
 kdelibs
 keepalived
 kernel
@@ -1612,6 +1615,7 @@ osinfo-db
 osinfo-db-tools
 ostree
 overpass-fonts
+ovirt-guest-agent
 p11-kit
 pacemaker
 pakchois
@@ -2126,6 +2130,7 @@ qca
 qemu
 qgnomeplatform
 qhull
+qimageblitz
 qpdf
 qrencode
 qt

@@ -542,6 +542,7 @@ dejavu-sans-mono-fonts
 dejavu-serif-fonts
 deltaiso
 deltarpm
+desktop-backgrounds-compat
 desktop-file-utils
 devhelp
 devhelp-devel
@@ -703,6 +704,7 @@ exiv2-libs
 expat
 expat-devel
 extra166y
+f26-backgrounds-base
 fabtests
 fakeroot
 fakeroot-libs
@@ -1790,10 +1792,13 @@ kde-apps-rpm-macros
 kde-filesystem
 kde-l10n
 kde-settings
+kde-workspace-common
 kdelibs
 kdelibs-common
 kdelibs-ktexteditor
 kdelibs-webkit
+kdm
+kdm-settings
 keepalived
 kernel
 kernel-PAE
@@ -1813,6 +1818,7 @@ keycloak-httpd-client-install
 keyutils
 keyutils-libs
 keyutils-libs-devel
+kgreeter-plugins
 khmeros-base-fonts
 khmeros-fonts-common
 kmod
@@ -2153,6 +2159,7 @@ libkkc-common
 libkkc-data
 libkml
 libksba
+libkworkspace
 liblangtag
 liblangtag-data
 liblayout
@@ -3062,6 +3069,10 @@ ostree-devel
 ostree-grub2
 ostree-libs
 overpass-fonts
+ovirt-guest-agent-common
+ovirt-guest-agent-gdm-plugin
+ovirt-guest-agent-kdm-plugin
+ovirt-guest-agent-pam-module
 p11-kit
 p11-kit-devel
 p11-kit-trust
@@ -4047,6 +4058,7 @@ qemu-system-xtensa-core
 qemu-user
 qemu-user-binfmt
 qgnomeplatform
+qimageblitz
 qpdf
 qpdf-libs
 qrencode-libs

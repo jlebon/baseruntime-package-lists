@@ -541,6 +541,7 @@ dejavu-sans-mono-fonts-2.35-5.fc27.noarch
 dejavu-serif-fonts-2.35-5.fc27.noarch
 deltaiso-3.6-24.fc27.ppc64
 deltarpm-3.6-24.fc27.ppc64
+desktop-backgrounds-compat-26.0.0-2.fc27.noarch
 desktop-file-utils-0.23-5.fc27.ppc64
 devhelp-1:3.25.91-1.fc28.ppc64
 devhelp-devel-1:3.25.91-1.fc28.ppc64
@@ -674,6 +675,7 @@ exiv2-libs-0.26-6.fc27.ppc64
 expat-2.2.4-1.fc28.ppc64
 expat-devel-2.2.4-1.fc28.ppc64
 extra166y-1.7.0-8.fc27.noarch
+f26-backgrounds-base-26.2.7-2.fc27.noarch
 fabtests-1.4.1-3.fc27.ppc64
 fakeroot-1.21-5.fc27.ppc64
 fakeroot-libs-1.21-5.fc27.ppc64
@@ -1665,10 +1667,13 @@ kde-apps-rpm-macros-6:4.14.34-2.fc27.noarch
 kde-filesystem-4-57.fc27.ppc64
 kde-l10n-17.04.3-1.fc27.noarch
 kde-settings-27-1.fc28.1.noarch
+kde-workspace-common-1:4.11.22-20.fc27.noarch
 kdelibs-6:4.14.34-2.fc27.ppc64
 kdelibs-common-6:4.14.34-2.fc27.ppc64
 kdelibs-ktexteditor-6:4.14.34-2.fc27.ppc64
 kdelibs-webkit-6:4.14.34-2.fc27.ppc64
+kdm-1:4.11.22-20.fc27.ppc64
+kdm-settings-1:4.11.22-20.fc27.noarch
 keepalived-1.3.5-1.fc27.ppc64
 kernel-4.13.0-0.rc6.git4.1.fc28.ppc64
 kernel-bootwrapper-4.13.0-0.rc6.git4.1.fc28.ppc64
@@ -1686,6 +1691,7 @@ keycloak-httpd-client-install-0.6-2.fc27.noarch
 keyutils-1.5.10-3.fc27.ppc64
 keyutils-libs-1.5.10-3.fc27.ppc64
 keyutils-libs-devel-1.5.10-3.fc27.ppc64
+kgreeter-plugins-1:4.11.22-20.fc27.ppc64
 khmeros-base-fonts-5.0-23.fc27.noarch
 khmeros-fonts-common-5.0-23.fc27.noarch
 kmod-24-3.fc27.ppc64
@@ -2025,6 +2031,7 @@ libkkc-common-0.3.5-5.fc26.noarch
 libkkc-data-1:0.2.7-9.fc27.ppc64
 libkml-1.3.0-8.fc27.ppc64
 libksba-1.3.5-5.fc27.ppc64
+libkworkspace-1:4.11.22-20.fc27.ppc64
 liblangtag-0.6.2-4.fc27.ppc64
 liblangtag-data-0.6.2-4.fc27.noarch
 liblayout-0.2.10-14.fc27.noarch
@@ -2920,6 +2927,10 @@ ostree-devel-2017.10-2.fc28.ppc64
 ostree-grub2-2017.10-2.fc28.ppc64
 ostree-libs-2017.10-2.fc28.ppc64
 overpass-fonts-3.0.2-2.fc27.noarch
+ovirt-guest-agent-common-1.0.13-2.fc27.2.noarch
+ovirt-guest-agent-gdm-plugin-1.0.13-2.fc27.2.noarch
+ovirt-guest-agent-kdm-plugin-1.0.13-2.fc27.2.ppc64
+ovirt-guest-agent-pam-module-1.0.13-2.fc27.2.ppc64
 p11-kit-0.23.8-2.fc28.ppc64
 p11-kit-devel-0.23.8-2.fc28.ppc64
 p11-kit-trust-0.23.8-2.fc28.ppc64
@@ -3903,6 +3914,7 @@ qemu-system-xtensa-core-2:2.10.0-0.4.rc4.fc28.ppc64
 qemu-user-2:2.10.0-0.4.rc4.fc28.ppc64
 qemu-user-binfmt-2:2.10.0-0.4.rc4.fc28.ppc64
 qgnomeplatform-0.3-4.fc27.ppc64
+qimageblitz-0.0.6-14.fc27.ppc64
 qpdf-6.0.0-10.fc27.ppc64
 qpdf-libs-6.0.0-10.fc27.ppc64
 qrencode-libs-3.4.4-3.fc27.ppc64
