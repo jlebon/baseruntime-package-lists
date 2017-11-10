@@ -1061,6 +1061,7 @@ hawtjni-1.15-2.fc27.src
 hdf-4.2.13-3.fc27.src
 hdf5-1.8.18-10.fc28.src
 hdparm-9.51-3.fc27.src
+heat-cfntools-1.4.2-3.fc27.src
 help2man-1.47.4-3.fc27.src
 herqq-1.0.0-16.fc27.src
 hesiod-3.2.1-9.fc27.src
@@ -3740,6 +3741,7 @@ python-behave-1.2.5-21.fc27.src
 python-blinker-1.3-12.fc28.src
 python-blist-1.3.6-12.fc27.src
 python-blivet-1:2.1.10-1.fc28.src
+python-boto-2.45.0-5.fc27.src
 python-boto3-1.4.6-1.fc27.src
 python-botocore-1.6.0-1.fc27.src
 python-bottle-0.12.9-5.fc26.src
@@ -3941,6 +3943,7 @@ python-restkit-4.2.2-8.fc28.src
 python-rhsm-1.20.1-3.fc27.src
 python-rpm-generators-4.13.0.1-4.fc28.src
 python-rpm-macros-3-22.fc27.src
+python-rsa-3.4.2-4.fc27.src
 python-rtslib-2.1.fb63-4.fc28.src
 python-s3transfer-0.1.10-2.fc26.src
 python-scales-1.0.5-12.fc28.src
@@ -3973,6 +3976,7 @@ python-systemd-234-3.fc27.src
 python-tables-3.3.0-6.fc27.src
 python-tempita-0.5.1-17.fc28.src
 python-testpath-0.3.1-1.fc27.src
+python-testrepository-0.0.20-10.fc28.src
 python-testscenarios-0.5.0-8.fc28.src
 python-testtools-2.3.0-4.fc28.src
 python-tornado-4.5.2-2.fc28.src

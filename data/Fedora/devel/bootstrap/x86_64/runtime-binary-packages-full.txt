@@ -1398,6 +1398,7 @@ haskell-platform-2017.8.0.2-8.fc27.x86_64
 hawtjni-runtime-1.15-2.fc27.noarch
 hdf5-1.8.18-10.fc28.x86_64
 hdparm-9.51-3.fc27.x86_64
+heat-cfntools-1.4.2-3.fc27.noarch
 herqq-1.0.0-16.fc27.x86_64
 hesiod-3.2.1-9.fc27.x86_64
 hexchat-2.12.4-8.fc27.x86_64
@@ -3876,6 +3877,7 @@ python3-beautifulsoup4-4.6.0-4.fc28.noarch
 python3-bind-32:9.11.1-6.P3.fc27.noarch
 python3-blivet-1:2.1.10-1.fc28.noarch
 python3-blockdev-2.12-3.fc28.x86_64
+python3-boto-2.45.0-5.fc27.noarch
 python3-brlapi-0.6.6-9.fc28.x86_64
 python3-bytesize-1.0-1.fc28.x86_64
 python3-cairo-1.15.3-1.fc28.x86_64
@@ -4037,6 +4039,7 @@ python3-rpm-4.14.0-2.fc28.x86_64
 python3-rpm-generators-4.13.0.1-4.fc28.noarch
 python3-rpm-macros-3-22.fc27.noarch
 python3-rpmconf-1.0.19-2.fc27.noarch
+python3-rsa-3.4.2-4.fc27.noarch
 python3-rtslib-2.1.fb63-4.fc28.noarch
 python3-samba-2:4.7.0-0.9.rc3.fc27.x86_64
 python3-samba-test-2:4.7.0-0.9.rc3.fc27.x86_64
